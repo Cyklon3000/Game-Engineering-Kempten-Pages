@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interesting Throbber Redirect</title>
+    <title>Redirecting to Vault...</title>
     <style>
-        body, html {
+        body,
+        html {
             height: 100%;
             margin: 0;
             display: flex;
@@ -13,9 +15,13 @@
             align-items: center;
             background-color: #1e1e1e;
         }
+
         .container {
-            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
+
         .throbber {
             width: 100px;
             height: 100px;
@@ -25,14 +31,29 @@
             animation: spin 1s linear infinite, pulse 2s ease-in-out infinite;
             margin-bottom: 3em;
         }
+
         @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
         }
+
         @keyframes pulse {
-            0%, 100% { transform: scale(1) rotate(0deg); }
-            50% { transform: scale(1.2) rotate(360deg); }
+
+            0%,
+            100% {
+                transform: scale(1) rotate(0deg);
+            }
+
+            50% {
+                transform: scale(1.2) rotate(360deg);
+            }
         }
+
         .link {
             background-color: #6840c6;
             border-radius: 4px;
@@ -50,20 +71,30 @@
             text-decoration: none solid #FFF;
             transition: all 0.2s ease 0s;
         }
+
         .link:hover {
             filter: brightness(90%) saturate(120%);
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <div class="throbber"></div>
-        <a class="link" href="repository/readme.html">Go To Vault...</a>
+        <a class="link" href="repository/readme.html">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512" width="1.3rem" height="1.3rem" style="transform: translateY(0.3rem) scale(1.15);">
+                <path d="M208 352h-64a96 96 0 010-192h64M304 160h64a96 96 0 010 192h-64M163.29 256h187.42" fill="none"
+                    stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" />
+            </svg>
+            Redirect Manually
+        </a>
     </div>
     <script>
-        setTimeout(() => {
+        setTimeout(() =>
+        {
             window.location.href = 'repository/readme.html';
-        }, 1500);
+        }, 150000);
     </script>
 </body>
+
 </html>
