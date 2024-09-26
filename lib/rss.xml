@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Game Engineering Kempten]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Game Engineering Kempten</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 26 Sep 2024 17:14:37 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 26 Sep 2024 17:14:25 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Angeblich nicht lösbare Gleichungen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Game Engineering Kempten]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Game Engineering Kempten</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 26 Sep 2024 17:25:47 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 26 Sep 2024 17:25:37 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Angeblich nicht lösbare Gleichungen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br><br>Gleichungen mit transzendenten Stellen und Polynomen.<br><br>z. B. <br><br>Durch Einsetzen von Werten  bringen.<br><br><br><br>
 Setze :<br>
 <br>
@@ -70,7 +70,7 @@ Wenn   existiert, dann heißt sie stetig
 oder:<br>
  (Kettenregel )<br><br>
 <br>
-]]></description><link>repository\differenzialrechnung.html</link><guid isPermaLink="false">repository/Differenzialrechnung.md</guid><pubDate>Thu, 26 Sep 2024 17:14:00 GMT</pubDate></item><item><title><![CDATA[Doppelbrüche]]></title><description><![CDATA[<a class="tag" href="?query=tag:Übung" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Übung</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\differenzialrechnung.html</link><guid isPermaLink="false">repository/Differenzialrechnung.md</guid><pubDate>Thu, 26 Sep 2024 17:25:37 GMT</pubDate></item><item><title><![CDATA[Doppelbrüche]]></title><description><![CDATA[<a class="tag" href="?query=tag:Übung" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Übung</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Übung" class="tag" target="_blank" rel="noopener">#Übung</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br>
 <a data-href="Uebung Potenzen Wurzeln Addiere Brueche Vereinfache Brueche.jpg" href="\repository\attachments\uebung-potenzen-wurzeln-addiere-brueche-vereinfache-brueche.jpg" class="internal-link" target="_self" rel="noopener">Uebung Potenzen Wurzeln Addiere Brueche Vereinfache Brueche.jpg</a><br><br><br><br>
 <br>
@@ -113,7 +113,7 @@ Wenn   existiert, dann heißt sie stetig
 oder:<br>
  (Kettenregel )<br><br>
 <br>
-]]></description><link>repository\funktionen.html</link><guid isPermaLink="false">repository/Funktionen.md</guid><pubDate>Thu, 26 Sep 2024 17:13:07 GMT</pubDate></item><item><title><![CDATA[Gaußalgorithmus]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\funktionen.html</link><guid isPermaLink="false">repository/Funktionen.md</guid><pubDate>Thu, 26 Sep 2024 17:25:37 GMT</pubDate></item><item><title><![CDATA[Gaußalgorithmus]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br>
 ( Gleichungen für  Unbekannte, siehe <a data-href="Lineare Gleichungssysteme" href="\repository\lineare-gleichungssysteme.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiSquareEqual" aria-label="LiSquareEqual" data-icon="LiSquareEqual" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-square-equal"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M7 10h10"></path><path d="M7 14h10"></path></svg></span>Lineare Gleichungssysteme</a>)<br><br>
 <br>Multiplikation ()
@@ -157,7 +157,43 @@ Jede beliebig oft differenzierbare Funktion f(x) lässt sich in eine Potenzreihe
 <br>
 <br>
 <br>
-]]></description><link>repository\hyperbolische-funktionen.html</link><guid isPermaLink="false">repository/Hyperbolische Funktionen.md</guid><pubDate>Thu, 26 Sep 2024 17:13:07 GMT</pubDate></item><item><title><![CDATA[Lineare Gleichungssysteme]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\hyperbolische-funktionen.html</link><guid isPermaLink="false">repository/Hyperbolische Funktionen.md</guid><pubDate>Thu, 26 Sep 2024 17:13:07 GMT</pubDate></item><item><title><![CDATA[Integralrechnung]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br><br>geg.:    ges.:wobei:<br>
+Definition:<br>
+<br>differenzieren = Berechnung der 1. <a data-tooltip-position="top" aria-label="Differenzialrechnung" data-href="Differenzialrechnung" href="\repository\differenzialrechnung.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiSquareEqual" aria-label="LiSquareEqual" data-icon="LiSquareEqual" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-square-equal"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M7 10h10"></path><path d="M7 14h10"></path></svg></span>Ableitung|</a>:
+<br>integrieren =  Berechnung der Stammfunktion
+<br>    Stammfunktion eindeutig bis auf additive Konstante<br><br><br><br><br><br>-<br>
+-<br>
+-<br>
+-<br>Tipp
+Beweis der Integrationsregeln und der Liste durch Ableiten!
+<br><br><br><br>Merke
+<br>
+
+<br>Bsp.:<br>
+<br>
+Bsp.:<br>
+<br>
+<br>
+<br><br><br>
+<br>
+Bsp.:<br><br><br>
+<br>
+<br><br><br>
+<br>
+<br>Bsp.:<br>
+<br>
+<br><br>viele (!) z.B. Partialbruchzerlegung für<br>
+Hinweis: Viele Integrale sind nicht durch elementare Funktionen ausdrückbar<br>
+Man kann sie nur numerisch berechnen oder führt neue "spezielle Funktionen" ein<br>z.B.:<br>
+(Errorfunktion)<br>
+(Integralsinus)<br><br><br><br>
+(Riemann-Integral)<br>
+beliebige Zerlegung<br>
+: Zwischenwert<br><br><br>Für :<br>
+<br> Integralfunktion: bestimmtes Integral mit variabler Obergrenze.<br><br>
+Integralfunktion = Stammfunktion bis auf Konstante!<br>
+]]></description><link>repository\integralrechnung.html</link><guid isPermaLink="false">repository/Integralrechnung.md</guid><pubDate>Thu, 26 Sep 2024 17:25:00 GMT</pubDate></item><item><title><![CDATA[Lineare Gleichungssysteme]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br><br>()  | <br>
 ()  | <br>() <br>
  () <br><br>

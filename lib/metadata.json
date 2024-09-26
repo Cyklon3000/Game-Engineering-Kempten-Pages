@@ -1,6 +1,6 @@
 {
   "vaultName": "Game Engineering Kempten",
-  "lastExport": 1727370865881,
+  "lastExport": 1727371537151,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -41,6 +41,7 @@
     "repository/Gaußalgorithmus.md",
     "repository/Höhere Ableitungen - Geometrische Anwendung.md",
     "repository/Hyperbolische Funktionen.md",
+    "repository/Integralrechnung.md",
     "repository/Lineare Gleichungssysteme.md",
     "repository/Logarithmen.md",
     "repository/Mathe-Vorkurs Orga.md",
@@ -159,157 +160,157 @@
   ],
   "fileInfo": {
     "repository/Attachments/Aufschrieb Kegelschnitte.jpeg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 130945,
       "exportedPath": "repository/attachments/aufschrieb-kegelschnitte.jpeg",
       "dependencies": []
     },
     "repository/Attachments/Bogenmaß Uebersicht Winkel.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 83056,
       "exportedPath": "repository/attachments/bogenmaß-uebersicht-winkel.png",
       "dependencies": []
     },
     "repository/Attachments/Einheitskreis 45 Grad sin cos.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 232892,
       "exportedPath": "repository/attachments/einheitskreis-45-grad-sin-cos.png",
       "dependencies": []
     },
     "repository/Attachments/Funtionsgraphen f_sin und g_abs(sin).png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 14590,
       "exportedPath": "repository/attachments/funtionsgraphen-f_sin-und-g_abs(sin).png",
       "dependencies": []
     },
     "repository/Attachments/generateDesmosBatch.py": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 1245,
       "exportedPath": "repository/attachments/generatedesmosbatch.py",
       "dependencies": []
     },
     "repository/Attachments/Pascals_Triangle.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 8478,
       "exportedPath": "repository/attachments/pascals_triangle.png",
       "dependencies": []
     },
     "repository/Attachments/Rechtwinkliges Dreieck Seiten Beschriftet.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 24003,
       "exportedPath": "repository/attachments/rechtwinkliges-dreieck-seiten-beschriftet.png",
       "dependencies": []
     },
     "repository/Attachments/Regel von Sarrus Matrix.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 15566,
       "exportedPath": "repository/attachments/regel-von-sarrus-matrix.png",
       "dependencies": []
     },
     "repository/Attachments/Uebung Bruchterme Potenzen Wurzeln.jpg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 376699,
       "exportedPath": "repository/attachments/uebung-bruchterme-potenzen-wurzeln.jpg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Differenzieren.jpeg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 112587,
       "exportedPath": "repository/attachments/uebung-differenzieren.jpeg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Funktionen.jpeg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 141393,
       "exportedPath": "repository/attachments/uebung-funktionen.jpeg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Gleichungen.jpg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 303659,
       "exportedPath": "repository/attachments/uebung-gleichungen.jpg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Integralrechnungen.jpeg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 105753,
       "exportedPath": "repository/attachments/uebung-integralrechnungen.jpeg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Integrieren.jpeg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 114748,
       "exportedPath": "repository/attachments/uebung-integrieren.jpeg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Lineare Gleichungssysteme.jpg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 278317,
       "exportedPath": "repository/attachments/uebung-lineare-gleichungssysteme.jpg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Logarithmen Gleichungen.jpg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 216155,
       "exportedPath": "repository/attachments/uebung-logarithmen-gleichungen.jpg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Potenzen Wurzeln Addiere Brueche Vereinfache Brueche.jpg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 185174,
       "exportedPath": "repository/attachments/uebung-potenzen-wurzeln-addiere-brueche-vereinfache-brueche.jpg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Reihen.jpg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 177438,
       "exportedPath": "repository/attachments/uebung-reihen.jpg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Termumformungen Ausmultiplizieren Faktorisieren.jpg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 317516,
       "exportedPath": "repository/attachments/uebung-termumformungen-ausmultiplizieren-faktorisieren.jpg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Trigonometrische Funktionen.jpeg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 78501,
       "exportedPath": "repository/attachments/uebung-trigonometrische-funktionen.jpeg",
       "dependencies": []
     },
     "repository/Attachments/Uebung Ungleichungen.jpg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 241509,
       "exportedPath": "repository/attachments/uebung-ungleichungen.jpg",
       "dependencies": []
     },
     "repository/Attachments/Vektor Addition.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 8977,
       "exportedPath": "repository/attachments/vektor-addition.png",
       "dependencies": []
     },
     "repository/Attachments/Vektor Visualisierung.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 4284,
       "exportedPath": "repository/attachments/vektor-visualisierung.png",
       "dependencies": []
     },
     "repository/Attachments/Vierer Matrix Aufteiling Dreier Matrizen.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 17166,
       "exportedPath": "repository/attachments/vierer-matrix-aufteiling-dreier-matrizen.png",
       "dependencies": []
     },
     "repository/Angeblich nicht lösbare Gleichungen.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 1499,
       "exportedPath": "repository/angeblich-nicht-lösbare-gleichungen.html",
       "dependencies": []
     },
     "repository/Betragsgleichungen.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 970,
       "exportedPath": "repository/betragsgleichungen.html",
       "dependencies": [
@@ -317,13 +318,13 @@
       ]
     },
     "repository/Binomialkoeffizient.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 232,
       "exportedPath": "repository/binomialkoeffizient.html",
       "dependencies": []
     },
     "repository/Binomischer Lehrsatz.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 618,
       "exportedPath": "repository/binomischer-lehrsatz.html",
       "dependencies": [
@@ -331,49 +332,55 @@
       ]
     },
     "repository/Differenzialrechnung.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 3248,
       "exportedPath": "repository/differenzialrechnung.html",
       "dependencies": []
     },
     "repository/Doppelbrüche.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 825,
       "exportedPath": "repository/doppelbrüche.html",
       "dependencies": []
     },
     "repository/Folgen.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 1908,
       "exportedPath": "repository/folgen.html",
       "dependencies": []
     },
     "repository/Funktionen.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 3248,
       "exportedPath": "repository/funktionen.html",
       "dependencies": []
     },
     "repository/Gaußalgorithmus.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 3606,
       "exportedPath": "repository/gaußalgorithmus.html",
       "dependencies": []
     },
     "repository/Höhere Ableitungen - Geometrische Anwendung.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 3090,
       "exportedPath": "repository/höhere-ableitungen-geometrische-anwendung.html",
       "dependencies": []
     },
     "repository/Hyperbolische Funktionen.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 220,
       "exportedPath": "repository/hyperbolische-funktionen.html",
       "dependencies": []
     },
+    "repository/Integralrechnung.md": {
+      "modifiedTime": 1727371537151,
+      "sourceSize": 3723,
+      "exportedPath": "repository/integralrechnung.html",
+      "dependencies": []
+    },
     "repository/Lineare Gleichungssysteme.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 2955,
       "exportedPath": "repository/lineare-gleichungssysteme.html",
       "dependencies": [
@@ -382,49 +389,49 @@
       ]
     },
     "repository/Logarithmen.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 1247,
       "exportedPath": "repository/logarithmen.html",
       "dependencies": []
     },
     "repository/Mathe-Vorkurs Orga.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 1304,
       "exportedPath": "repository/mathe-vorkurs-orga.html",
       "dependencies": []
     },
     "repository/Potenzen und Wurzeln.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 741,
       "exportedPath": "repository/potenzen-und-wurzeln.html",
       "dependencies": []
     },
     "repository/README.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 161,
       "exportedPath": "repository/readme.html",
       "dependencies": []
     },
     "repository/Summen und Reihen.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 2835,
       "exportedPath": "repository/summen-und-reihen.html",
       "dependencies": []
     },
     "repository/Terme.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 963,
       "exportedPath": "repository/terme.html",
       "dependencies": []
     },
     "repository/Termumformungen.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 1436,
       "exportedPath": "repository/termumformungen.html",
       "dependencies": []
     },
     "repository/Trigonometrie.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 2110,
       "exportedPath": "repository/trigonometrie.html",
       "dependencies": [
@@ -434,13 +441,13 @@
       ]
     },
     "repository/Ungleichungen.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 714,
       "exportedPath": "repository/ungleichungen.html",
       "dependencies": []
     },
     "repository/Vektorrechnung.md": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 2864,
       "exportedPath": "repository/vektorrechnung.html",
       "dependencies": [
@@ -449,361 +456,361 @@
       ]
     },
     "repository/attachments/funtionsgraphen-f_sin-und-g_abs(sin).png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 14590,
       "exportedPath": "repository/attachments/funtionsgraphen-f_sin-und-g_abs(sin).png",
       "dependencies": []
     },
     "repository/attachments/pascals_triangle.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 8478,
       "exportedPath": "repository/attachments/pascals_triangle.png",
       "dependencies": []
     },
     "repository/attachments/regel-von-sarrus-matrix.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 15566,
       "exportedPath": "repository/attachments/regel-von-sarrus-matrix.png",
       "dependencies": []
     },
     "repository/attachments/vierer-matrix-aufteiling-dreier-matrizen.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 17166,
       "exportedPath": "repository/attachments/vierer-matrix-aufteiling-dreier-matrizen.png",
       "dependencies": []
     },
     "repository/attachments/rechtwinkliges-dreieck-seiten-beschriftet.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 24003,
       "exportedPath": "repository/attachments/rechtwinkliges-dreieck-seiten-beschriftet.png",
       "dependencies": []
     },
     "repository/attachments/einheitskreis-45-grad-sin-cos.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 232892,
       "exportedPath": "repository/attachments/einheitskreis-45-grad-sin-cos.png",
       "dependencies": []
     },
     "repository/attachments/bogenmaß-uebersicht-winkel.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 83056,
       "exportedPath": "repository/attachments/bogenmaß-uebersicht-winkel.png",
       "dependencies": []
     },
     "repository/attachments/vektor-addition.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 8977,
       "exportedPath": "repository/attachments/vektor-addition.png",
       "dependencies": []
     },
     "repository/attachments/vektor-visualisierung.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 4284,
       "exportedPath": "repository/attachments/vektor-visualisierung.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1727370865881,
-      "sourceSize": 31509,
+      "modifiedTime": 1727371537151,
+      "sourceSize": 32371,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1727370865881,
-      "sourceSize": 1779,
+      "modifiedTime": 1727371537151,
+      "sourceSize": 2064,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 130208,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 4528,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1727370865881,
+      "modifiedTime": 1727371537151,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
