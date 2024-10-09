@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Game Engineering Kempten]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Game Engineering Kempten</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 26 Sep 2024 17:40:13 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 26 Sep 2024 17:40:02 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Angeblich nicht lösbare Gleichungen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Game Engineering Kempten]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Game Engineering Kempten</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 09 Oct 2024 14:52:47 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Informatik Bestandteile]]></title><description><![CDATA[ 
+ <br>Informatik<br>Mathematik<br>Elektrotechnik<br>Wirtschaftswissenschaften]]></description><link>repository\attachments\informatik-bestandteile.html</link><guid isPermaLink="false">repository/Attachments/Informatik Bestandteile.canvas</guid><pubDate>Wed, 09 Oct 2024 14:45:22 GMT</pubDate></item><item><title><![CDATA[Informationsverarbeitung]]></title><description><![CDATA[ 
+ <br>Information<br>Semantische Komponente:<br>
+trägt bestimmte Bedeutung<br>Syntaktische Komponente:<br>
+äußeres Erscheinungsbild, per se bedeutungslos<br>Daten<br>DatenRepräsentationAbstraktion/InterpretationVerarbeitungVerarbeitung]]></description><link>repository\attachments\informationsverarbeitung.html</link><guid isPermaLink="false">repository/Attachments/Informationsverarbeitung.canvas</guid><pubDate>Wed, 09 Oct 2024 14:45:23 GMT</pubDate></item><item><title><![CDATA[Teilgebiete der Informatik]]></title><description><![CDATA[ 
+ <br>Technische Informatik<br>
+Konstruktion von Rechnern, Speicherchips, Prozessoren, Peripherie...<br>Angewandte Informatik<br>
+Einsatz von Rechnern in verschiedenen Anwendungsbereichen<br>Praktische Informatik<br>
+Konstruktion von System- und Anwendungssoftware<br>Theoretische Informatik<br>
+Erforschung der theoretischen Grundlagen]]></description><link>repository\attachments\teilgebiete-der-informatik.html</link><guid isPermaLink="false">repository/Attachments/Teilgebiete der Informatik.canvas</guid><pubDate>Wed, 09 Oct 2024 14:45:23 GMT</pubDate></item><item><title><![CDATA[(Naive) Mengenlehre]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Lineare-Algebra-und-analytische-Geometrie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Lineare-Algebra-und-analytische-Geometrie</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Lineare-Algebra-und-analytische-Geometrie" class="tag" target="_blank" rel="noopener">#Lineare-Algebra-und-analytische-Geometrie</a> <br>
+<br>Beispiele, Definitionen einer Menge nach Georg Cantor
+<br>Darstellung von Mengen
+<br>Mengenoperationen und Mengenalgebra
+<br>Mengen und Aussagen
+<br>Beziehungen zwischen Mengen
+<br>Endliche Mengen, unendliche Mengen
+<br><br>
+<br>Elemente in Mengen müssen einzigartig sein
+]]></description><link>repository\(naive)-mengenlehre.html</link><guid isPermaLink="false">repository/(Naive) Mengenlehre.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Angeblich nicht lösbare Gleichungen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br><br>Gleichungen mit transzendenten Stellen und Polynomen.<br><br>z. B. <br><br>Durch Einsetzen von Werten  bringen.<br><br><br><br>
 Setze :<br>
 <br>
@@ -10,7 +29,27 @@ Lösung:<br>
 <br>Beispiel: <br>
 
 <br>Start: 
-<br>]]></description><link>repository\angeblich-nicht-lösbare-gleichungen.html</link><guid isPermaLink="false">repository/Angeblich nicht lösbare Gleichungen.md</guid><pubDate>Thu, 26 Sep 2024 17:40:02 GMT</pubDate></item><item><title><![CDATA[Betragsgleichungen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+<br>]]></description><link>repository\angeblich-nicht-lösbare-gleichungen.html</link><guid isPermaLink="false">repository/Angeblich nicht lösbare Gleichungen.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Animation]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Modellierung-und-Animation1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Modellierung-und-Animation1</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Modellierung-und-Animation1" class="tag" target="_blank" rel="noopener">#Modellierung-und-Animation1</a> <br>
+<br>"Belebung der Szene"
+
+<br>Zeiteinheit: Frame
+
+
+<br>Viele Methoden:
+
+<br>manuell
+<br>prozedurale akquiriert: Motion Capture
+
+
+<br>Typische Techniken
+
+<br>Basistechnik: Parametrisches Key-framing
+<br>Kinematik, inverse Kinematik
+<br>
+
+
+]]></description><link>repository\animation.html</link><guid isPermaLink="false">repository/Animation.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Betragsgleichungen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br><br><br>
 <br>
 <br>
@@ -30,11 +69,11 @@ III:  :<br>
 <br>
 <br>
 <br>
- <br>]]></description><link>repository\betragsgleichungen.html</link><guid isPermaLink="false">repository/Betragsgleichungen.md</guid><pubDate>Thu, 26 Sep 2024 17:40:03 GMT</pubDate><enclosure url="repository\attachments\funtionsgraphen-f_sin-und-g_abs(sin).png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;repository\attachments\funtionsgraphen-f_sin-und-g_abs(sin).png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Binomialkoeffizient]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+ <br>]]></description><link>repository\betragsgleichungen.html</link><guid isPermaLink="false">repository/Betragsgleichungen.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate><enclosure url="repository\attachments\funtionsgraphen-f_sin-und-g_abs(sin).png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="repository\attachments\funtionsgraphen-f_sin-und-g_abs(sin).png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Binomialkoeffizient]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br><br> <br>
 <br>
 <br>Die Faktoren 43 abwärts kürzen sich weg
-]]></description><link>repository\binomialkoeffizient.html</link><guid isPermaLink="false">repository/Binomialkoeffizient.md</guid><pubDate>Thu, 26 Sep 2024 17:40:03 GMT</pubDate></item><item><title><![CDATA[Binomischer Lehrsatz]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\binomialkoeffizient.html</link><guid isPermaLink="false">repository/Binomialkoeffizient.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Binomischer Lehrsatz]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br>
 <br>
 <br>
@@ -49,7 +88,7 @@ III:  :<br>
 <img alt="Pascals_Triangle.png" src="\repository\attachments\pascals_triangle.png"><br>
 
 <br>Jeder Term Teil mit einem ungeraden Exponenten von  wird subtrahiert nicht addiert 
-]]></description><link>repository\binomischer-lehrsatz.html</link><guid isPermaLink="false">repository/Binomischer Lehrsatz.md</guid><pubDate>Thu, 26 Sep 2024 17:40:04 GMT</pubDate><enclosure url="repository\attachments\pascals_triangle.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;repository\attachments\pascals_triangle.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Differenzialrechnung]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\binomischer-lehrsatz.html</link><guid isPermaLink="false">repository/Binomischer Lehrsatz.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate><enclosure url="repository\attachments\pascals_triangle.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="repository\attachments\pascals_triangle.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Differenzialrechnung]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br>Differentialrechnung = Steigungsberechnung<br>
 <a data-href="Integralrechnung" href="\repository\integralrechnung.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiSquareEqual" aria-label="LiSquareEqual" data-icon="LiSquareEqual" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-square-equal"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M7 10h10"></path><path d="M7 14h10"></path></svg></span>Integralrechnung</a> = umgekehrte Differenzierung/Flächenberechnung<br><br><br>Y axisX axisExpression 1Expression 2f(x)(f(x+h)xx+hExpression 7Expression 8f(x+h)-f(x)hf(x)f(x)(f(x+h)(f(x+h)xxx+hx+hf(x+h)-f(x)f(x+h)-f(x)hh<br>Wenn der Grenzwert einer Funktion existiert, dann heißt  1. Ableitung, Differentialquotient, Steigung.<br>
 Rechnen der Steigung: Differenzieren<br>
@@ -70,7 +109,7 @@ Wenn   existiert, dann heißt sie stetig
 oder:<br>
  (Kettenregel )<br><br>
 <br>
-]]></description><link>repository\differenzialrechnung.html</link><guid isPermaLink="false">repository/Differenzialrechnung.md</guid><pubDate>Thu, 26 Sep 2024 17:40:04 GMT</pubDate></item><item><title><![CDATA[Doppelbrüche]]></title><description><![CDATA[<a class="tag" href="?query=tag:Übung" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Übung</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\differenzialrechnung.html</link><guid isPermaLink="false">repository/Differenzialrechnung.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Doppelbrüche]]></title><description><![CDATA[<a class="tag" href="?query=tag:Übung" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Übung</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Übung" class="tag" target="_blank" rel="noopener">#Übung</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br>
 <a data-href="Uebung Potenzen Wurzeln Addiere Brueche Vereinfache Brueche.jpg" href="\repository\attachments\uebung-potenzen-wurzeln-addiere-brueche-vereinfache-brueche.jpg" class="internal-link" target="_self" rel="noopener">Uebung Potenzen Wurzeln Addiere Brueche Vereinfache Brueche.jpg</a><br><br><br><br>
 <br>
@@ -83,7 +122,89 @@ oder:<br>
 <br>
 <br>
 <br>
-]]></description><link>repository\doppelbrüche.html</link><guid isPermaLink="false">repository/Doppelbrüche.md</guid><pubDate>Thu, 26 Sep 2024 17:40:05 GMT</pubDate></item><item><title><![CDATA[Folgen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\doppelbrüche.html</link><guid isPermaLink="false">repository/Doppelbrüche.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Einführung in die Informatik Orga]]></title><description><![CDATA[<a class="tag" href="?query=tag:Einführung-Informatik" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Einführung-Informatik</a> <a class="tag" href="?query=tag:Orga" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Orga</a> 
+ <br><a href=".?query=tag:Einführung-Informatik" class="tag" target="_blank" rel="noopener">#Einführung-Informatik</a> <a href=".?query=tag:Orga" class="tag" target="_blank" rel="noopener">#Orga</a> <br>
+<br>Einführung
+
+<br><a data-href="Geschichte der Informatik" href="\repository\geschichte-der-informatik.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiBackpack" aria-label="LiBackpack" data-icon="LiBackpack" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-backpack"><path d="M4 10a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Z"></path><path d="M9 6V4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2"></path><path d="M8 21v-5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v5"></path><path d="M8 10h8"></path><path d="M8 18h8"></path></svg></span>Geschichte der Informatik</a>
+<br><a data-href="Was ist Informatik" href="\repository\was-ist-informatik.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiBackpack" aria-label="LiBackpack" data-icon="LiBackpack" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-backpack"><path d="M4 10a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Z"></path><path d="M9 6V4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2"></path><path d="M8 21v-5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v5"></path><path d="M8 10h8"></path><path d="M8 18h8"></path></svg></span>Was ist Informatik</a>
+
+
+<br><a data-href="Information, Informationsdarstellung und -Verarbeitung" href="\repository\information,-informationsdarstellung-und-verarbeitung.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiBackpack" aria-label="LiBackpack" data-icon="LiBackpack" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-backpack"><path d="M4 10a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Z"></path><path d="M9 6V4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2"></path><path d="M8 21v-5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v5"></path><path d="M8 10h8"></path><path d="M8 18h8"></path></svg></span>Information, Informationsdarstellung und -Verarbeitung</a>
+
+<br>Information
+<br>Definitionen, Darstellung von Text, Wahrheitswerten, Zahlen
+<br>Informationsverarbeitung
+
+
+<br>Vom Problem zur Softwarelösung
+
+<br>Problem Spezifikation
+<br>Algorithmus
+<br>Programm
+
+
+<br>Grundlegende Konzepte imperativer Programmiersprachen
+
+<br>Datenrepräsentation: In welcher Form werden Daten im Rechner gespeichert?
+<br>Verarbeitung: Wie werden Anweisungen strukturiert
+<br>Objekte: Neuer einheitlicher Ansatz
+
+
+<br>Elementare Algorithmen
+
+<br>Suchen und Sortieren
+<br>Komplexität von Algorithmen
+
+<br>Berechenbarkeit
+<br>Komplexitätsklassen
+
+
+
+
+<br>Übersetzen von Programmen
+
+<br>Formalismen zur Syntaxbeschreibung
+
+<br>Grammatiken
+<br>Syntaxdiagramme
+<br>erkennende Automaten
+
+
+<br>Übersetzung von Programmiersprachen
+
+<br>lexikalische Analyse
+<br>Syntaxanalyse
+<br>Ausführung
+
+
+
+
+<br>Grundlagen des Software-Engineerings
+
+<br>Software-Lebenszyklus
+<br>Software-Entwicklungsmodelle
+
+<br>Wasserfallmodell
+<br>Spiralmodel
+<br>Inkrementelle Modelle
+<br>V-Modell
+<br>Agile Modelle
+
+
+
+
+<br>Wirtschaftliche und gesellschaftliche Bedeutung der Informatik
+
+<br>Informatik als Beschäftigungsfaktor
+<br>Gesellschaftliche Veränderung durch die Informatik
+
+
+<br>Literatur:<br>
+<br>H.P. Gumm und M. Sommer Einführung in die Informatik. ISBN 9783486719956
+<br>H. Ernst, J. Schmidt und G. Beneken Grundkurs Informatik: Grundlagen und Konzepte für die erfolgreiche IT-Praxis - Eine umfassende, praxisorientiere Einführung. ISBN 9783658146344
+<br>Helmut Herold u.a. Grundlagen der Informatik. ISBN 9783868944488
+]]></description><link>repository\einführung-in-die-informatik-orga.html</link><guid isPermaLink="false">repository/Einführung in die Informatik Orga.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Folgen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br><br>Eine Folge ist eine eindeutige Zuordnung , wobei <br><br>(Kapital bei Zinssatz, Population, Abschreibungen,...)<br><br><br>
 <br>Explizit: , z.B. 
 <br>Rekursiv: , z.B. 
@@ -92,28 +213,68 @@ oder:<br>
 <br>
 <br>
 <br>
-]]></description><link>repository\folgen.html</link><guid isPermaLink="false">repository/Folgen.md</guid><pubDate>Thu, 26 Sep 2024 17:40:05 GMT</pubDate></item><item><title><![CDATA[Funktionen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
- <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br>Differentialrechnung = Steigungsberechnung<br>
-<a data-href="Integralrechnung" href="\repository\integralrechnung.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiSquareEqual" aria-label="LiSquareEqual" data-icon="LiSquareEqual" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-square-equal"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M7 10h10"></path><path d="M7 14h10"></path></svg></span>Integralrechnung</a> = umgekehrte Differenzierung/Flächenberechnung<br><br><br>Y axisX axisExpression 1Expression 2f(x)(f(x+h)xx+hExpression 7Expression 8f(x+h)-f(x)hf(x)f(x)(f(x+h)(f(x+h)xxx+hx+hf(x+h)-f(x)f(x+h)-f(x)hh<br>Wenn der Grenzwert einer Funktion existiert, dann heißt  1. Ableitung, Differentialquotient, Steigung.<br>
-Rechnen der Steigung: Differenzieren<br>
-Beispiel für nicht differenzierbare Funktion:<br>
- bei <br>
- bei <br>Definition
-Wenn  bei  für  existiert, dann heißt die Funktion differenzierbar 
-<br>Definition:
-Wenn   existiert, dann heißt sie stetig
-<br>Tldr
- differenzierbar  stetig
-<br><br><br><br>, , <br>
+]]></description><link>repository\folgen.html</link><guid isPermaLink="false">repository/Folgen.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Funktionen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br><br>Funktion  = Zuordnungsvorschrift die jedem  genau ein  zuordnet.<br><br>Y axisX axisExpression 1<br>
+Y axisX axisExpression 1<br>
+Y axisX axisExpression 1<br>
+Y axisX axisExpression 1<br>
+Y axisX axisExpression 1<br><br>
+<br>Y axisX axisExpression 1Expression 2<br>Funktionen mehrerer Variablen <br>
+<br>Definition:<br>
+Eine Funktion  hat eine Umkehrfunktion  wenn jedem  genau ein  zugeordnet wird.<br>
 <br>
- (Summenregel)<br>
- (Produktregel)<br>
- (Quotientenregel)<br>
- (Kettenregel)<br><br><br>
-oder:<br>
- (Kettenregel )<br><br>
+Der Graph der Umkehrfunktion entsteht durch Spiegelung des Graphen an der Winkelhalbierenden (,  Quadrant)<br>
+Y axisX axisExpression 1Expression 2Expression 3Expression 4<br><br><br><br>
+<br>nach rechts: 
+<br>nach links: 
+<br>nach oben: 
+<br>nach unten: 
+<br><br><br>
+<br>x-Richtung: 
+<br>y-Richtung: 
+<br>Bezeichnungen
+: Streckung<br>
+: Stauchung<br>
+: Streckung und Spiegelung<br>
+: Stauchung und Spiegelung
+<br><br><br>
+<br>x-Achse: 
+<br>y-Achse: 
+<br>am Ursprung: 
+<br>an :  (Umkehrfunktion) 
+<br><br><br><br><br><br><br>
+<br>: steigt nach rechts
+<br>: fällt nach rechts
+<br>: parallel zur x-Achse
+<br>: parallel zur y-Achse (x = a, keine Funktion)
+<br>Y axisX axisExpression 1y₁y₂x₁x₂Expression 6Expression 7y₂-y₁x₂-x₁ααy₁y₁y₂y₂x₁x₁x₂x₂y₂-y₁y₂-y₁x₂-x₁x₂-x₁αααα<br><br> (Normalform)<br>
+ (Scheitelform)<br>Umformung von Normalform zu Scheitelpunktform:<br>
 <br>
-]]></description><link>repository\funktionen.html</link><guid isPermaLink="false">repository/Funktionen.md</guid><pubDate>Thu, 26 Sep 2024 17:40:06 GMT</pubDate></item><item><title><![CDATA[Gaußalgorithmus]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+<br>
+<br>Bei 2 Nullstellen: <br>Parabel symmetrisch bzgl. Scheitel<br>
+Y axisX axisExpression 1Expression 2Expression 3Expression 4<br><br><br>Y axisX axisExpression 1Expression 2<br>
+<br>
+<br>
+<br>
+<br><br><br><br><br><br>
+Y axisX axisExpression 1a=2na=2na=2n<br>
+Y axisX axisExpression 1a=2n+1a=2n+1a=2n+1<br>
+Y axisX axisExpression 1a=-2na=-2na=-2n<br>
+Y axisX axisExpression 1a=-2n+1a=-2n+1a=-2n+1<br>
+Y axisX axisExpression 1α ∈ ℝ₊ ̸ ℕα ∈ ℝ₊ ̸ ℕα ∈ ℝ₊ ̸ ℕ<br>
+Y axisX axisExpression 1α ∈ ℝ₋ ̸ ℤα ∈ ℝ₋ ̸ ℤα ∈ ℝ₋ ̸ ℤ<br><br><br>
+Steigt stärker an als jede Potenz von .<br>
+Anwendungen: Wachstum, Zerfall<br>
+Y axisX axisExpression 1a&gt;1Expression 30&lt;a&lt;1a&gt;1a&gt;10&lt;a&lt;10&lt;a&lt;1<br>
+<br>
+Y axisX axisExpression 1a&gt;1Expression 30&lt;a&lt;1a&gt;1a&gt;10&lt;a&lt;10&lt;a&lt;1<br><br><br>
+Es können Polstellen (-Stellen) oder Definitionslücken ( Löcher) auftreten.<br>Polstellen:<br>
+ oder<br>
+<br>
+: Vielfachheit der Nullstelle<br>Definitionslücke:<br>
+ )$<br>Beispiel: <br>
+Y axisX axisExpression 1Expression 2Expression 3Expression 4<br>
+<br>]]></description><link>repository\funktionen.html</link><guid isPermaLink="false">repository/Funktionen.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Gaußalgorithmus]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br>
 ( Gleichungen für  Unbekannte, siehe <a data-href="Lineare Gleichungssysteme" href="\repository\lineare-gleichungssysteme.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiSquareEqual" aria-label="LiSquareEqual" data-icon="LiSquareEqual" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-square-equal"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M7 10h10"></path><path d="M7 14h10"></path></svg></span>Lineare Gleichungssysteme</a>)<br><br>
 <br>Multiplikation ()
@@ -123,7 +284,106 @@ oder:<br>
 <br><br><br><br><br><br>
 <br>
 <br> Gerade in <br>
-z.B. ]]></description><link>repository\gaußalgorithmus.html</link><guid isPermaLink="false">repository/Gaußalgorithmus.md</guid><pubDate>Thu, 26 Sep 2024 17:40:06 GMT</pubDate></item><item><title><![CDATA[Höhere Ableitungen - Geometrische Anwendung]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+z.B. ]]></description><link>repository\gaußalgorithmus.html</link><guid isPermaLink="false">repository/Gaußalgorithmus.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Geschichte der Informatik]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Einführung-Informatik" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Einführung-Informatik</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Einführung-Informatik" class="tag" target="_blank" rel="noopener">#Einführung-Informatik</a> <br>Ursprung der Informatik
+"Die Wurzeln der Entwicklung der Informatik liegen im Bestreben der Menschen, nicht nur körperliche Arbeit durch den Einsatz von Werkzeugen und Maschinen zu erleichtern, sondern auch geistige Tätigkeiten."<br>
+~ H. Ernst, Grundkurs Informatik, S.3
+<br>Die wichtigsten Schritte der Entwicklung der Maschinen bis zum Computer:<br>
+<br>Schritt: Konstruktion von Rechenhilfen und mechanischen Rechenmaschinen (2000 - 100v Chr.)
+<br>Schritt. Bau digitaler mechanischer Rechenmaschinen (17. Jhdt.)
+<br>Schritt: Elektrische Rechenmaschinen (vor 1945)
+<br>Schritt: Elektronische Rechenmaschinen (nach 1945) 
+<br><br>
+<br>Schritt: Mechanische Rechenhilfen
+<br>
+<br>Abakus (ca. 2000 v. Chr.)
+
+<br>Zählwerk aus beweglichen Kugeln
+<br>Erlaubt Rechnern mit vier Grundrechenarten
+
+
+<br>Mechanismus von Antikythera (ca. 100 v. Chr.)
+
+<br>Urwerks-ähnlicher Mechanismus mit Zahnrädern
+<br>erlaubt astronomische Berechnungen
+
+
+<br>Napier'sche Rechenstäbchen (um 1617)
+
+<br>Stächen mit quadratischem Querschnitt
+<br>in jeder Zeile des Stäbchens steht eine Zahl des Einmaleins
+<br>erleichtert Multiplikation und Division
+<br>verwendet um Geld einzutreiben
+
+
+<br><br>
+<br>Schritt: Mechanische Rechenmaschinen mit Zahnrädern zur Ausführung arithmetischer Operationen
+<br>
+<br>Rechenmaschine von Schickard (um 1624)
+<br>Mechanische Rechenmaschinen von Pascal (ab ca. 1640) und Leibniz (ab 1673)<br>
+Konzeption der ersten Rechenmaschine nach heutigem Muster durch Babbage (ab 1833):
+<br>logische Trennung verschiedener Funktionseinheiten (Rechenwerk, Steuerwerk, Speicher, Ein-/Ausgabemöglichkeit)
+<br>Steuerung durch "Programme" auf Lochkarten
+<br>50 x 100 Register zum Speichern von 40-stellugen Zahlenallerdings: nur Pläne , nie gebaut<br>
+Analytical Engine ist der erste Mechanische Computer
+<br><br>
+<br>Schritt: Elektrische Rechenmaschinen verwendeten Relais oder Elektronenröhren statt Zahnrädern.
+
+<br>erste voll funktionsfähige elektromechanische Rechenanlagen durch Zuse (Z3, 1941) und Aiken (MARK1, 1944)
+
+<br>Relais als Basis
+<br>Berechnung von Flugbahnen, Navigationsdaten, Statistiken
+
+
+<br>erste mit Elektronenröhren arbeitende Rechenanlage durch Eckert/Mauchly (ENIAC, 1946)
+
+<br>noch ziemlich unhandlich: 140  Grundfläche, 174 kW Leistungsaufnahme, 18000 Elektronenröhren, ...
+<br>Berechnung von ballistischen Datenrepräsentation
+
+
+
+
+<br>Schritt: Einsatz von Elektronik und starke Miniaturisierung der Hardware
+
+<br>Einsatz von Transistoren anstelle von Röhren (ab 1955)
+<br>Einsatz von integrierten Schaltkreisen anstelle von Transistoren (ab 1960)
+<br>Einsatz von hochintegrierter Schaltkreise (seit Anfang der 70er Jahre)
+<br>Abkehr von vorherrschender von-Neumann-Architektur (seit Mitte der 80er Jahre)
+
+
+<br>Zukunft<br>
+<br>Molekulare Computer (ab 2050?)
+<br>Quanten-Computer (ab ???)
+<br><br>
+<br>Problem-orientierte Programmiersprachen (seit Ende der 50er Jahre)
+<br>Betriebssysteme (seit Anfang der 60er Jahre)
+<br>Software Engineering (Ende der 60er Jahre)
+<br>Objektorientierte Ansätze innerhalb des Software Engineering (sei Anfang der 80er Jahre)
+<br>Internet, verteilte Programme (seit Anfang der 80er Jahre)
+<br>Zukunft<br>
+<br>Cloud Computing
+<br>Pervasive Computing
+<br><br>Ausstattung eines PCs 1979:<br>
+<br>Prozessor: Intel 8088
+<br>1 Kern
+<br>Taktfrequenz: 4,7 MHz
+<br>Hauptspeicher: 64 KB
+<br>Plattenspeicher: n.v.
+<br>externer Speicher: 5,25' Floppy 360 KB
+<br>Bildschirm: 12 Zoll monochrom
+<br>Transistoren in CPU: 29.000<br>
+Ausstattung eines PCs 2024
+<br>Prozessor: Intel Core i9-14900KS
+<br>24 Kerne (8x Leistung, 16x Effizienz)
+<br>Taktfrequenz: bis zu 6,0 GHz
+<br>Hauptspeicher bis zu 64GB
+<br>Plattenspeicher: 2000 GB
+<br>externer Speicher: USB-Sticks
+<br>Bildschirm: 25 Zoll TFT
+<br>Transistoren in CPU: &gt; 6.000.000.000 (?) (mit integrierter GPU)
+<br>Moores Law
+Die Anzahl der Transistoren auf Chips verdoppelt sich alle 2 Jahre
+]]></description><link>repository\geschichte-der-informatik.html</link><guid isPermaLink="false">repository/Geschichte der Informatik.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Höhere Ableitungen - Geometrische Anwendung]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br>
 <br>
 <br>
@@ -151,18 +411,112 @@ Jede beliebig oft differenzierbare Funktion f(x) lässt sich in eine Potenzreihe
 <br>
 <br>Eulerische Formel
 
-]]></description><link>repository\höhere-ableitungen-geometrische-anwendung.html</link><guid isPermaLink="false">repository/Höhere Ableitungen - Geometrische Anwendung.md</guid><pubDate>Thu, 26 Sep 2024 17:40:07 GMT</pubDate></item><item><title><![CDATA[Hyperbolische Funktionen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\höhere-ableitungen-geometrische-anwendung.html</link><guid isPermaLink="false">repository/Höhere Ableitungen - Geometrische Anwendung.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Hyperbolische Funktionen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br>
 <br>
 <br>
 <br>
 <br>
-]]></description><link>repository\hyperbolische-funktionen.html</link><guid isPermaLink="false">repository/Hyperbolische Funktionen.md</guid><pubDate>Thu, 26 Sep 2024 17:40:08 GMT</pubDate></item><item><title><![CDATA[Integralrechnung]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\hyperbolische-funktionen.html</link><guid isPermaLink="false">repository/Hyperbolische Funktionen.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Information, Informationsdarstellung und -Verarbeitung]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Einführung-Informatik" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Einführung-Informatik</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Einführung-Informatik" class="tag" target="_blank" rel="noopener">#Einführung-Informatik</a> <br><br>...ist als Begriff&nbsp;nicht&nbsp;exakt definierbar.<br>Mögliche Definitionen
+"Information ist die Kenntnis über bestimmte Sachverhalte und Vorgänge un einem Teil der wahrgenommenen Realität"
+"Information ist eine Mitteilung, die sich aus einer räumlichen oder zeitlichen Folge physikalischer Signale zusammengesetzt, die mit bestimmten Wahrscheinlichkeiten auftreten und die beim Empfänger ein bestimmtes [Denk]verhalten bewirkt" ~Duden
+<br> ...ist immateriell (d.h. nicht physikalisch greifbar)<br>
+ ...kann nur über Umweg "Daten" im Rechner verarbeitet werden. <br><br>
+<br>sind als Begriff exakt definierbar
+Definition
+Daten sind Zeichen oder kontinuierliche Funktionen, die Informationen aufgrund bekannter oder unterstellter Abmachungen zum Zweck der Verarbeitung darstellen (DIN 44300)
+
+
+<br>besitzen physikalische Repräsentation
+<br><br>
+<br>Daten sind die physikalischen Repräsentation von Information
+<br>Information erhält man, wenn man die Daten "versteht"
+<br><br>Definition
+Eine Nachricht lässt sich als Folge von Zeichen auffassen, die von einem Sender (Quelle) ausgehend, in irgendeiner Form einem Empfänger (Senke) übermittelt wird.
+<br><br>
+<br>Nachrichten sind Daten, die übermittelt werden
+<br><br> Informationsverarbeitung<br><br><br>
+<br>
+Repräsentation von Information durch physikalisch messbare Entität, z.B.
+
+<br>elektrische Ladung
+<br>elektrische Spannung
+<br>Magnetisierung
+<br>optische Reflexion
+
+
+<br>
+Unterscheidung von zwei Zuständen, z.B.<br>
+- Kondensator geladen oder entladen<br>
+- an Widerstand liegt Spannung von 5 V an oder nicht<br>
+- Stelle auf Magnetscheibe magnetisiert oder nicht<br>
+- Stelle auf optischer Platte reflektiert Lichtstrahl oder nicht<br>
+ Identifikation der Zustände mit den Symbolen  bzw. <br>
+ Informationsgehalt:  Bit
+
+<br>
+Komplexere Nachrichten bzw. umfangreichere Informationsgehate entsprechen Folgen aus  und 
+
+<br>Zahlen und Zeichen so darstellbar
+<br>Teilfolgen von je 8 Nullen oder Einsen ergeben  Byte (ABk.: B)
+
+
+<br>
+Größenfaktoren
+
+<br>K =  =  (Kilo)
+<br>M =  =  (Mega)
+<br>G =  =  (Giga)
+<br>T =  =  (Tera)
+<br>P =  =  (Peta)
+<br>E =  =  (Exa)
+
+
+<br>
+Zur Unterscheidung zwischen binären und dezimalen Größenfaktoren wird meist ein  eingefügt:  vs. <br>
+<img alt="AbweichungBinärDezimalGroessenfaktoren.png" src="\repository\attachments\abweichungbinärdezimalgroessenfaktoren.png" style="width: 450px; max-width: 100%;">
+
+<br><br>Die Festlegung einer Abbildungsvorschrift zwischen bestimmter Art von Information und bestimmten Mustern aus Nullen und Einsen wird (Binär-)Codierung genannt<br>Gewünschte Eigenschaften von Codes sind:<br>
+<br>Kompakte Darstellung: Es sollten möglichst wenig Bits benötigt werden.
+<br>Redundanz: Der Code sollte robust bei Übertragungsfehlern sein.
+<br>Handlichkeit: Der Code sollte eine leichte Verarbeitung der Daten im Rechner ermöglichen.<br>
+ alle Anforderungen können nicht gleichzeitig erfüllt werden<br>
+ je nach Anwendungszweck werden unterschiedliche Codes bevorzugt<br>
+Frage: Wie viele Bits brauche ich eigentlich mindestens?
+]]></description><link>repository\information,-informationsdarstellung-und-verarbeitung.html</link><guid isPermaLink="false">repository/Information, Informationsdarstellung und -Verarbeitung.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate><enclosure url="repository\attachments\abweichungbinärdezimalgroessenfaktoren.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="repository\attachments\abweichungbinärdezimalgroessenfaktoren.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Integralrechnung]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br><br>geg.:    ges.:wobei:<br>
 Definition:<br>
 <br>differenzieren = Berechnung der 1. <a data-tooltip-position="top" aria-label="Differenzialrechnung" data-href="Differenzialrechnung" href="\repository\differenzialrechnung.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiSquareEqual" aria-label="LiSquareEqual" data-icon="LiSquareEqual" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-square-equal"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M7 10h10"></path><path d="M7 14h10"></path></svg></span>Ableitung|</a>:
 <br>integrieren =  Berechnung der Stammfunktion
-<br>    Stammfunktion eindeutig bis auf additive Konstante<br><br><br><br><br><br>-<br>
+<br>    Stammfunktion eindeutig bis auf additive Konstante<br><br>
+Y axisX axisExpression 2Expression 3<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br>
+<br>
+Y axisX axisExpression 1Expression 2<br><br><br><br><br><br>-<br>
 -<br>
 -<br>
 -<br>Tipp
@@ -193,7 +547,29 @@ beliebige Zerlegung<br>
 : Zwischenwert<br><br><br>Für :<br>
 <br> Integralfunktion: bestimmtes Integral mit variabler Obergrenze.<br><br>
 Integralfunktion = Stammfunktion bis auf Konstante!<br>
-]]></description><link>repository\integralrechnung.html</link><guid isPermaLink="false">repository/Integralrechnung.md</guid><pubDate>Thu, 26 Sep 2024 17:40:02 GMT</pubDate></item><item><title><![CDATA[Lineare Gleichungssysteme]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\integralrechnung.html</link><guid isPermaLink="false">repository/Integralrechnung.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Kompilierte vs. Interpretierte Sprachen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Programieren1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Programieren1</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Programieren1" class="tag" target="_blank" rel="noopener">#Programieren1</a> <br><br>
+<br>werden in die sog. native Sprache (Maschinensprache) des Zielsystems mithilfe des sog. Compilers übersetzt.
+<br>Die Maschinensprache ist für den Menschen nur schwer lesbar, liegt als Folge von Bytes vor, die für Daten und Befehle stehen und in einer Binärdatei abgespeichert sind.
+<br>Sind i.d.R. sehr schnell ausführbare Programme.
+<br>müssen i.d.R. für jedes Zielsystem und bei jeder Codeänderung neu kompiliert (übersetzt) werden.
+<br><br>
+<br>werden von einem anderen Programm, dem sog. Interpreter, nach und nach „on-the-fly“ gelesen und ausgeführt.
+<br>sind besser portierbar (übertragbar) auf andere Systeme, soweit ein entsprechender Interpreter für diese Systeme existiert.
+<br>Führen zu wesentlich langsamerer Ausführung des Programms als bei kompilierte Sprachen.
+<br><br>
+<br>sind eine Kombination aus den beiden oberen Sprachtypen und versuchen deren Vor- und Nachteile auszugleichen.
+<br>Code wird zum Zeitpunkt des Bedarfs kompiliert.
+]]></description><link>repository\kompilierte-vs.-interpretierte-sprachen.html</link><guid isPermaLink="false">repository/Kompilierte vs. Interpretierte Sprachen.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Lineare Algebra und analytische Geometrie Orga]]></title><description><![CDATA[<a class="tag" href="?query=tag:Orga" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Orga</a> <a class="tag" href="?query=tag:Lineare-Algebra-und-analytische-Geometrie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Lineare-Algebra-und-analytische-Geometrie</a> 
+ <br><a href=".?query=tag:Orga" class="tag" target="_blank" rel="noopener">#Orga</a> <a href=".?query=tag:Lineare-Algebra-und-analytische-Geometrie" class="tag" target="_blank" rel="noopener">#Lineare-Algebra-und-analytische-Geometrie</a><br>Moodle-Passwort: internGE<br><br>
+<br><a data-href="(Naive) Mengenlehre" href="\repository\(naive)-mengenlehre.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiPlusSquare" aria-label="LiPlusSquare" data-icon="LiPlusSquare" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-plus-square"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M8 12h8"></path><path d="M12 8v8"></path></svg></span>(Naive) Mengenlehre</a>
+<br>Vektoren
+<br>Basen, Unterräume, Gerade
+<br>Messen in Vektorräumen
+<br>Matrizen
+<br>Lineare Gleichungssysteme
+<br>Determinanten, Eigenwerte, Eigenvektoren
+]]></description><link>repository\lineare-algebra-und-analytische-geometrie-orga.html</link><guid isPermaLink="false">repository/Lineare Algebra und analytische Geometrie Orga.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Lineare Gleichungssysteme]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br><br>()  | <br>
 ()  | <br>() <br>
  () <br><br>
@@ -216,7 +592,7 @@ Integralfunktion = Stammfunktion bis auf Konstante!<br>
 <br><br>
 <br><br><img alt="Vierer Matrix Aufteiling Dreier Matrizen.png" src="\repository\attachments\vierer-matrix-aufteiling-dreier-matrizen.png"><br>
 <br>
-]]></description><link>repository\lineare-gleichungssysteme.html</link><guid isPermaLink="false">repository/Lineare Gleichungssysteme.md</guid><pubDate>Thu, 26 Sep 2024 17:40:09 GMT</pubDate><enclosure url="repository\attachments\regel-von-sarrus-matrix.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;repository\attachments\regel-von-sarrus-matrix.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Logarithmen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\lineare-gleichungssysteme.html</link><guid isPermaLink="false">repository/Lineare Gleichungssysteme.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate><enclosure url="repository\attachments\regel-von-sarrus-matrix.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="repository\attachments\regel-von-sarrus-matrix.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Logarithmen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br>
 , , <br>
 <br>
@@ -239,7 +615,7 @@ Dabei gilt:<br>
 <br>
 <br>
 <br>
-<br><br>]]></description><link>repository\logarithmen.html</link><guid isPermaLink="false">repository/Logarithmen.md</guid><pubDate>Thu, 26 Sep 2024 17:40:09 GMT</pubDate></item><item><title><![CDATA[Mathe-Vorkurs Orga]]></title><description><![CDATA[<a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> <a class="tag" href="?query=tag:Orga" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Orga</a> 
+<br><br>]]></description><link>repository\logarithmen.html</link><guid isPermaLink="false">repository/Logarithmen.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Mathe-Vorkurs Orga]]></title><description><![CDATA[<a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> <a class="tag" href="?query=tag:Orga" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Orga</a> 
  <br><a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <a href=".?query=tag:Orga" class="tag" target="_blank" rel="noopener">#Orga</a><br>
 <br>12 Tage beginnend 11.09.2024 endend am 26.09.2024
 <br>Mathe Grundwissen Wiederholung
@@ -285,7 +661,35 @@ Dabei gilt:<br>
 <br><a data-href="Uebung Differenzieren.jpeg" href="\repository\attachments\uebung-differenzieren.jpeg" class="internal-link" target="_self" rel="noopener">Uebung Differenzieren.jpeg</a>
 <br><a data-href="Uebung Integrieren.jpeg" href="\repository\attachments\uebung-integrieren.jpeg" class="internal-link" target="_self" rel="noopener">Uebung Integrieren.jpeg</a>
 <br><a data-href="Uebung Integralrechnungen.jpeg" href="\repository\attachments\uebung-integralrechnungen.jpeg" class="internal-link" target="_self" rel="noopener">Uebung Integralrechnungen.jpeg</a>
-]]></description><link>repository\mathe-vorkurs-orga.html</link><guid isPermaLink="false">repository/Mathe-Vorkurs Orga.md</guid><pubDate>Thu, 26 Sep 2024 17:40:10 GMT</pubDate></item><item><title><![CDATA[Potenzen und Wurzeln]]></title><description><![CDATA[<a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> <a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> 
+]]></description><link>repository\mathe-vorkurs-orga.html</link><guid isPermaLink="false">repository/Mathe-Vorkurs Orga.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Modellierung]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Modellierung-und-Animation1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Modellierung-und-Animation1</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Modellierung-und-Animation1" class="tag" target="_blank" rel="noopener">#Modellierung-und-Animation1</a> <br>
+<br>Erstellung der Geometrie aller Objekte 
+<br>Wie wir sehen werden gibt es verschiedene Darstellungsformen von Geometriedaten, am wichtigsten sind hier Polygon-Netze
+<br>Die manuelle Erstellung (Modellierung ist die i.A. verbreitete Methoden
+<br>Dennoch existieren für viele Spezialfälle Alternativen.
+<br><br>
+<br>Optische (oder auch haptische) Abtastung der Oberfläche, d.h. der Entfernung von Punkten der Oberfläche zur "Kamera"
+<br>Für ausrechende Genauigkeit sind oft viele Scans von verschiedenen Perspektiven nötig
+<br>Erzeigen i.d.R. eine Punktwolke (Point Cloud) -&gt; automatische oder manuelle Nachbearbeitung nötig
+<br>Abhängigkeit von der Technologie mit Limitation behaften, u.a. bei stark reflektierenden oder transparenten Objekten
+<br>Typische Einsatzgebiete:
+
+<br>Industrie (Materialprüfung, QM, Schadenanalyse)
+<br>Architektur
+<br>Medizin
+<br>Im Unterhaltungssektor: bei Nachbildung realer Charaktere unerlässlich
+
+
+]]></description><link>repository\modellierung.html</link><guid isPermaLink="false">repository/Modellierung.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Modellierung und Animation 1 Orga]]></title><description><![CDATA[<a class="tag" href="?query=tag:Orga" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Orga</a> <a class="tag" href="?query=tag:Modellierung-und-Animation1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Modellierung-und-Animation1</a> 
+ <br><a href=".?query=tag:Orga" class="tag" target="_blank" rel="noopener">#Orga</a> <a href=".?query=tag:Modellierung-und-Animation1" class="tag" target="_blank" rel="noopener">#Modellierung-und-Animation1</a><br>Moodle-Passwort: maxwell<br>Aufbau:<br>
+<br>Einführung
+<br><a data-href="Preproduction" href="\repository\preproduction.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiCuboid" aria-label="LiCuboid" data-icon="LiCuboid" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-cuboid"><path d="m21.12 6.4-6.05-4.06a2 2 0 0 0-2.17-.05L2.95 8.41a2 2 0 0 0-.95 1.7v5.82a2 2 0 0 0 .88 1.66l6.05 4.07a2 2 0 0 0 2.17.05l9.95-6.12a2 2 0 0 0 .95-1.7V8.06a2 2 0 0 0-.88-1.66Z"></path><path d="M10 22v-8L2.25 9.15"></path><path d="m10 14 11.77-6.87"></path></svg></span>Preproduction</a>
+<br><a data-href="Modellierung" href="\repository\modellierung.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiCuboid" aria-label="LiCuboid" data-icon="LiCuboid" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-cuboid"><path d="m21.12 6.4-6.05-4.06a2 2 0 0 0-2.17-.05L2.95 8.41a2 2 0 0 0-.95 1.7v5.82a2 2 0 0 0 .88 1.66l6.05 4.07a2 2 0 0 0 2.17.05l9.95-6.12a2 2 0 0 0 .95-1.7V8.06a2 2 0 0 0-.88-1.66Z"></path><path d="M10 22v-8L2.25 9.15"></path><path d="m10 14 11.77-6.87"></path></svg></span>Modellierung</a>
+<br>Materialien und Licht
+<br><a data-href="Animation" href="\repository\animation.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiCuboid" aria-label="LiCuboid" data-icon="LiCuboid" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-cuboid"><path d="m21.12 6.4-6.05-4.06a2 2 0 0 0-2.17-.05L2.95 8.41a2 2 0 0 0-.95 1.7v5.82a2 2 0 0 0 .88 1.66l6.05 4.07a2 2 0 0 0 2.17.05l9.95-6.12a2 2 0 0 0 .95-1.7V8.06a2 2 0 0 0-.88-1.66Z"></path><path d="M10 22v-8L2.25 9.15"></path><path d="m10 14 11.77-6.87"></path></svg></span>Animation</a>
+<br><a data-href="Rendering" href="\repository\rendering.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiCuboid" aria-label="LiCuboid" data-icon="LiCuboid" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-cuboid"><path d="m21.12 6.4-6.05-4.06a2 2 0 0 0-2.17-.05L2.95 8.41a2 2 0 0 0-.95 1.7v5.82a2 2 0 0 0 .88 1.66l6.05 4.07a2 2 0 0 0 2.17.05l9.95-6.12a2 2 0 0 0 .95-1.7V8.06a2 2 0 0 0-.88-1.66Z"></path><path d="M10 22v-8L2.25 9.15"></path><path d="m10 14 11.77-6.87"></path></svg></span>Rendering</a>
+<br>Postproduction
+]]></description><link>repository\modellierung-und-animation-1-orga.html</link><guid isPermaLink="false">repository/Modellierung und Animation 1 Orga.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Potenzen und Wurzeln]]></title><description><![CDATA[<a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> <a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> 
  <br><a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a><br><br>
 <br>
 <br>
@@ -299,8 +703,69 @@ Dabei gilt:<br>
 <br>
 <br>
 <br>
-<br><br>]]></description><link>repository\potenzen-und-wurzeln.html</link><guid isPermaLink="false">repository/Potenzen und Wurzeln.md</guid><pubDate>Thu, 26 Sep 2024 17:40:10 GMT</pubDate></item><item><title><![CDATA[Game Engineering und Visual Computing Obsidian Vault]]></title><description><![CDATA[ 
- <br><br>Hier werden die Unterlagen aller Kurse zu Backup Zwecken regelmäßig hochgeladen]]></description><link>repository\readme.html</link><guid isPermaLink="false">repository/README.md</guid><pubDate>Thu, 26 Sep 2024 17:40:10 GMT</pubDate></item><item><title><![CDATA[Summen und Reihen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+<br><br>]]></description><link>repository\potenzen-und-wurzeln.html</link><guid isPermaLink="false">repository/Potenzen und Wurzeln.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Preproduction]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Modellierung-und-Animation1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Modellierung-und-Animation1</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Modellierung-und-Animation1" class="tag" target="_blank" rel="noopener">#Modellierung-und-Animation1</a> <br>
+<br>Ideenfindung
+<br>Design- und Planungsphase
+<br>Storytelling
+<br>Screenplay
+<br>Storyboard
+<br>Organisatorisches (Budget, HR, Lizenzen, Versicherungen usw.
+]]></description><link>repository\preproduction.html</link><guid isPermaLink="false">repository/Preproduction.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Programmieren 1 Orga]]></title><description><![CDATA[<a class="tag" href="?query=tag:Programieren1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Programieren1</a> <a class="tag" href="?query=tag:Orga" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Orga</a> 
+ <br><a href=".?query=tag:Programieren1" class="tag" target="_blank" rel="noopener">#Programieren1</a> <a href=".?query=tag:Orga" class="tag" target="_blank" rel="noopener">#Orga</a> <br>Moodle Passwort PROG189<br>Aufschriebe:<br>
+<br><a data-href="Programmiersprachen" href="\repository\programmiersprachen.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiKeyboard" aria-label="LiKeyboard" data-icon="LiKeyboard" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-keyboard"><rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect><path d="M6 8h.001"></path><path d="M10 8h.001"></path><path d="M14 8h.001"></path><path d="M18 8h.001"></path><path d="M8 12h.001"></path><path d="M12 12h.001"></path><path d="M16 12h.001"></path><path d="M7 16h10"></path></svg></span>Programmiersprachen</a>
+<br><a data-href="Kompilierte vs. Interpretierte Sprachen" href="\repository\kompilierte-vs.-interpretierte-sprachen.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiKeyboard" aria-label="LiKeyboard" data-icon="LiKeyboard" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-keyboard"><rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect><path d="M6 8h.001"></path><path d="M10 8h.001"></path><path d="M14 8h.001"></path><path d="M18 8h.001"></path><path d="M8 12h.001"></path><path d="M12 12h.001"></path><path d="M16 12h.001"></path><path d="M7 16h10"></path></svg></span>Kompilierte vs. Interpretierte Sprachen</a>
+<br><a data-href="Syntax und Semantik" href="\repository\syntax-und-semantik.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiKeyboard" aria-label="LiKeyboard" data-icon="LiKeyboard" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-keyboard"><rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect><path d="M6 8h.001"></path><path d="M10 8h.001"></path><path d="M14 8h.001"></path><path d="M18 8h.001"></path><path d="M8 12h.001"></path><path d="M12 12h.001"></path><path d="M16 12h.001"></path><path d="M7 16h10"></path></svg></span>Syntax und Semantik</a>
+]]></description><link>repository\programmieren-1-orga.html</link><guid isPermaLink="false">repository/Programmieren 1 Orga.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Programmiersprachen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Programieren1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Programieren1</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Programieren1" class="tag" target="_blank" rel="noopener">#Programieren1</a><br>
+Es gibt eine große Anzahl von Programmiersprache, die nach verschiedenen Kriterien unterscheidbar sind, z.B.<br><br>
+<br>Portabilität / Geschwindigkeit / ...
+<br><br>
+<br>Unterstützter Programmierstil, z.B. prozedurale (strukturiert) oder objektorientiert
+<br><br>
+<br>Definition / Kombination von Datentypen
+<br><br>
+<br>High und low Level Sprachen
+]]></description><link>repository\programmiersprachen.html</link><guid isPermaLink="false">repository/Programmiersprachen.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Game Engineering und Visual Computing Obsidian Vault]]></title><description><![CDATA[ 
+ <br><br>Hier werden die Unterlagen aller Kurse zu Backup Zwecken regelmäßig hochgeladen<br><br><a data-href="Mathe-Vorkurs Orga" href="\repository\mathe-vorkurs-orga.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiSquareEqual" aria-label="LiSquareEqual" data-icon="LiSquareEqual" aria-hidden="true" style="color: rgb(117, 240, 240); transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-square-equal"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M7 10h10"></path><path d="M7 14h10"></path></svg></span>Mathe-Vorkurs Orga</a><br>
+<a data-href="Einführung in die Informatik Orga" href="\repository\einführung-in-die-informatik-orga.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiBackpack" aria-label="LiBackpack" data-icon="LiBackpack" aria-hidden="true" style="color: rgb(117, 240, 240); transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-backpack"><path d="M4 10a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Z"></path><path d="M9 6V4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2"></path><path d="M8 21v-5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v5"></path><path d="M8 10h8"></path><path d="M8 18h8"></path></svg></span>Einführung in die Informatik Orga</a><br>
+<a data-href="Programmieren 1 Orga" href="\repository\programmieren-1-orga.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiKeyboard" aria-label="LiKeyboard" data-icon="LiKeyboard" aria-hidden="true" style="color: rgb(117, 240, 240); transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-keyboard"><rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect><path d="M6 8h.001"></path><path d="M10 8h.001"></path><path d="M14 8h.001"></path><path d="M18 8h.001"></path><path d="M8 12h.001"></path><path d="M12 12h.001"></path><path d="M16 12h.001"></path><path d="M7 16h10"></path></svg></span>Programmieren 1 Orga</a><br>
+<a data-href="Modellierung und Animation 1 Orga" href="\repository\modellierung-und-animation-1-orga.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiCuboid" aria-label="LiCuboid" data-icon="LiCuboid" aria-hidden="true" style="color: rgb(117, 240, 240); transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-cuboid"><path d="m21.12 6.4-6.05-4.06a2 2 0 0 0-2.17-.05L2.95 8.41a2 2 0 0 0-.95 1.7v5.82a2 2 0 0 0 .88 1.66l6.05 4.07a2 2 0 0 0 2.17.05l9.95-6.12a2 2 0 0 0 .95-1.7V8.06a2 2 0 0 0-.88-1.66Z"></path><path d="M10 22v-8L2.25 9.15"></path><path d="m10 14 11.77-6.87"></path></svg></span>Modellierung und Animation 1 Orga</a><br>
+<a data-href="Lineare Algebra und analytische Geometrie Orga" href="\repository\lineare-algebra-und-analytische-geometrie-orga.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiPlusSquare" aria-label="LiPlusSquare" data-icon="LiPlusSquare" aria-hidden="true" style="color: rgb(117, 240, 240); transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-plus-square"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M8 12h8"></path><path d="M12 8v8"></path></svg></span>Lineare Algebra und analytische Geometrie Orga</a>]]></description><link>repository\readme.html</link><guid isPermaLink="false">repository/README.md</guid><pubDate>Wed, 09 Oct 2024 14:45:34 GMT</pubDate></item><item><title><![CDATA[Rendering]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Modellierung-und-Animation1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Modellierung-und-Animation1</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Modellierung-und-Animation1" class="tag" target="_blank" rel="noopener">#Modellierung-und-Animation1</a> <br>
+<br>
+Umsetzung aller Szeneninformationen (Geometrie, Material, Licht usw.) in Pixelrepräsentation
+
+<br>
+Unterschiedliche Rendering-Methoden, die sich z.T. stark unterscheiden:
+
+<br>Rasterisierung / Schanline Rendering
+<br>Raytracing
+<br>Radiosity
+
+
+<br>
+Für Artists wichtige Unterschiede verschiedener Renderer
+
+<br>Echtzeitfähigkeit vs. Fotorealismus
+<br>Funktion (Motion Blur, Verteilbarkeit, Instancing, etc.)
+<br>Geschwindigkeit
+<br>Materialsystem
+<br>Physikalische Korrektheit (biased vs. unbiased)
+<br>Progressive
+<br>Optischer Flavour
+<br>etc.
+
+
+<br>
+Rasterisierung: Ablauf i.A. in drei Strages:
+
+<br>Application Stage: Anwendungsspezifische Aufgaben, z.B. Kollisionserkennung -&gt; i.d.R. CPU
+<br>Geometry Stage: Ermittlung der zu rendernden Geometrie, z.B. Projektion, Clipping -&gt; GPU
+<br>
+
+
+]]></description><link>repository\rendering.html</link><guid isPermaLink="false">repository/Rendering.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Summen und Reihen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br>
 <br><br>Alle Glieder sind konstant: <br>
 | <br><br>Differenz zweier Glieder ist konstant: <br>
@@ -330,7 +795,24 @@ Spezialfall: <br><br>Quotient zweier Folgeglieder ist konstant: <br>
 <br>
 <br> ist divergent
 <br> ist konvergent
-]]></description><link>repository\summen-und-reihen.html</link><guid isPermaLink="false">repository/Summen und Reihen.md</guid><pubDate>Thu, 26 Sep 2024 17:40:10 GMT</pubDate></item><item><title><![CDATA[Terme]]></title><description><![CDATA[<a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> <a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> 
+]]></description><link>repository\summen-und-reihen.html</link><guid isPermaLink="false">repository/Summen und Reihen.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Syntax und Semantik]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Programieren1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Programieren1</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Programieren1" class="tag" target="_blank" rel="noopener">#Programieren1</a> <br><br>
+<br>Definiert das Erscheinungsbild des Quelltextes/Codes und liefert ein Regelwerk (Grammatik) für die Zusammensetzung von:
+<br>einzelnen Zeichen zu einem Wort
+<br>einzelnen Wörtern zu einem Satz
+<br>einzelnen Sätzen zu einem Quelltext eines Programms
+Yoda
+Viel zu lernen du noch hast.
+
+
+<br><br>
+<br>Definiert die Bedeutung von Zeichen-/Wortfolgen.
+<br>Drückt die Wortwahl das aus, was eigentlich gemeint war?
+E. Stoiber
+Ich hab's mir angewöhnt, dass ich jeden Tag in der Früh in den Garten schau' und vielleicht eine Blume hinrichte.
+
+
+]]></description><link>repository\syntax-und-semantik.html</link><guid isPermaLink="false">repository/Syntax und Semantik.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Terme]]></title><description><![CDATA[<a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> <a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> 
  <br><a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <br><br>TERM = "sinnvoller" Rechenausdruck aus<br>
 <br>Zahlen
 <br>Variablen
@@ -356,7 +838,7 @@ z.B.
 <br>Ausklammern
 <br>binomische Sätze
 <br>Polynomdivision, Polynom-Nullstellen
-]]></description><link>repository\terme.html</link><guid isPermaLink="false">repository/Terme.md</guid><pubDate>Thu, 26 Sep 2024 17:40:11 GMT</pubDate></item><item><title><![CDATA[Termumformungen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> <a class="tag" href="?query=tag:Übung" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Übung</a> 
+]]></description><link>repository\terme.html</link><guid isPermaLink="false">repository/Terme.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Termumformungen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> <a class="tag" href="?query=tag:Übung" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Übung</a> 
  <br><a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <a href=".?query=tag:Übung" class="tag" target="_blank" rel="noopener">#Übung</a><br>
 <a data-href="Uebung Termumformungen Ausmultiplizieren Faktorisieren.jpg" href="\repository\attachments\uebung-termumformungen-ausmultiplizieren-faktorisieren.jpg" class="internal-link" target="_self" rel="noopener">Uebung Termumformungen Ausmultiplizieren Faktorisieren.jpg</a><br><br>
 <br><br>
@@ -396,7 +878,7 @@ z.B.
 <br>
 <br>
 <br>
-]]></description><link>repository\termumformungen.html</link><guid isPermaLink="false">repository/Termumformungen.md</guid><pubDate>Thu, 26 Sep 2024 17:40:11 GMT</pubDate></item><item><title><![CDATA[Trigonometrie]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\termumformungen.html</link><guid isPermaLink="false">repository/Termumformungen.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Trigonometrie]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br>
 <a data-tooltip-position="top" aria-label="Hyperbolische Funktionen" data-href="Hyperbolische Funktionen" href="\repository\hyperbolische-funktionen.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="LiSquareEqual" aria-label="LiSquareEqual" data-icon="LiSquareEqual" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-square-equal"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M7 10h10"></path><path d="M7 14h10"></path></svg></span>Näherungsweise Trigonometrische Funktionen</a><br><br><img alt="Rechtwinkliges Dreieck Seiten Beschriftet.png" src="\repository\attachments\rechtwinkliges-dreieck-seiten-beschriftet.png" style="width: 200px; max-width: 100%;"><br>
 <br>
@@ -413,7 +895,7 @@ z.B.
 <br>
 <br>
 <br>
-]]></description><link>repository\trigonometrie.html</link><guid isPermaLink="false">repository/Trigonometrie.md</guid><pubDate>Thu, 26 Sep 2024 17:40:12 GMT</pubDate><enclosure url="repository\attachments\rechtwinkliges-dreieck-seiten-beschriftet.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;repository\attachments\rechtwinkliges-dreieck-seiten-beschriftet.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ungleichungen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+]]></description><link>repository\trigonometrie.html</link><guid isPermaLink="false">repository/Trigonometrie.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate><enclosure url="repository\attachments\rechtwinkliges-dreieck-seiten-beschriftet.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="repository\attachments\rechtwinkliges-dreieck-seiten-beschriftet.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ungleichungen]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a><br>
 <br>
 Auflösung wie bei Gleichungen<br>Ausnahme
@@ -429,7 +911,7 @@ Lösung: <br><br><br>
 <br>
 <br><br>
 <br>Lösung: <br>
-Gesamtlösung: ]]></description><link>repository\ungleichungen.html</link><guid isPermaLink="false">repository/Ungleichungen.md</guid><pubDate>Thu, 26 Sep 2024 17:40:12 GMT</pubDate></item><item><title><![CDATA[Vektorrechnung]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
+Gesamtlösung: ]]></description><link>repository\ungleichungen.html</link><guid isPermaLink="false">repository/Ungleichungen.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item><item><title><![CDATA[Vektorrechnung]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Mathe-Vorkurs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Mathe-Vorkurs</a> 
  <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Mathe-Vorkurs" class="tag" target="_blank" rel="noopener">#Mathe-Vorkurs</a> <br> Definition
 Vektor : Größe gekennzeichnet durch Lage &amp; Richtung<br>
 Skalar : Größe gekennzeichnet durch Lage &amp; Wert<br>
@@ -448,4 +930,115 @@ Einheitsvektor: Vektor  mit Länge/Betrag 1<br>
 <br>Die von zwei Vektoren eingespannte Fläche  mit dem Schnittwinkel  entspricht<br>
 
 
-]]></description><link>repository\vektorrechnung.html</link><guid isPermaLink="false">repository/Vektorrechnung.md</guid><pubDate>Thu, 26 Sep 2024 17:40:02 GMT</pubDate><enclosure url="repository\attachments\vektor-addition.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;repository\attachments\vektor-addition.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>repository\vektorrechnung.html</link><guid isPermaLink="false">repository/Vektorrechnung.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate><enclosure url="repository\attachments\vektor-addition.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="repository\attachments\vektor-addition.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Was ist Informatik]]></title><description><![CDATA[<a class="tag" href="?query=tag:Aufschrieb" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aufschrieb</a> <a class="tag" href="?query=tag:Einführung-Informatik" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Einführung-Informatik</a> 
+ <br><a href=".?query=tag:Aufschrieb" class="tag" target="_blank" rel="noopener">#Aufschrieb</a> <a href=".?query=tag:Einführung-Informatik" class="tag" target="_blank" rel="noopener">#Einführung-Informatik</a> <br>Definition
+Informatik ist die Wissenschaft von der systematischen und automatisierten Verarbeitung von Information. Sie erforscht grundsätzliche Verfahrensweisen der Informationsverarbeitung und allgemeine Methoden ihrer Anwendung in den verschiedensten Bereichen. Für diese Aufgaben wendet die Informatik vorwiegend formale und ingenieurmäßig orientierte Techniken an. Durch Verfahren der Modellbildung sieht sie beispielsweise von den Besonderheiten spezieller Datenverarbeitungssysteme ab; sie entwickelt Standardlösungen für die Aufgaben der Praxis. 
+~ Gesellschaft für Informatik (1985)
+<br><br>
+<br>Wahrnehmung der Informatik als eigene Disziplin seit Mitte der 60er Jahre, Kunstwort "Informatik" in Anlehnung an Begriff "Informatik"<br>
+ Informatik Bestandteile
+<br>Anfang der 70er Jahre erstmalig Informatik als eigenständiger Studiengang
+<br><br>
+<br>Unterscheidung von Naturwissenschaften durch Betrachtung von Menschen geschaffener Systeme und Strukturen
+<br>Unterscheidung von Ingenieurwissenschaften durch Untersuchung immaterieller Produkte
+
+<br>Information und speziell Spftware per se nicht physisch greifbar
+<br>Nutzung erst im Zusammenwirken mit materillen Objekten Möglichkeiten
+
+
+<br>Unterscheidung von Geisteswissenschaften durch Ausrichtung auf praktisch anwendbare Ergebnisse
+
+<br>keine Beschränkung auf Erkenntnisgewinn oder reine Beschreibung von Phänomenen
+
+
+<br><br> Teilgebiete der Informatik<br><br>Die Theoretische Informatik bildet das Fundament für die anderen Kernbereiche.<br>
+Inhalte sind unter anderem:<br>
+<br>Theorie der Algorithmen
+
+<br>Komplexitäts-, Berechenbarkeits-, Automatentheorie, Theorie der Datenstrukturen
+
+
+<br>Ersetzungssysteme und Kalküle
+
+<br>Formale Sprachen, Deduktions- und Transition Systeme, Logik, Computer-Algebra
+
+
+<br>Theorie der Programmierung
+
+<br>Programmiermethodik, Spezifikation, Verifikation, Semantik
+
+
+<br>Kommunikationstheorie
+
+<br>Informationstheorie, Codierungstheorie, Kryptographie
+
+
+<br><br>Die Praktische Informatik befasst sich mit der Entwicklung von allgemeinen Systemen, z.B.<br>
+<br>Programmiersprachen und Programmiertechnik
+
+<br>Programmiersprachen und -Werkzeuge
+
+
+<br>Informationssysteme
+
+<br>Datenbanken, Betriebliche Informationssysteme
+
+
+<br>Systemsoftware und Systeme mit besonderen Anforderungen
+
+<br>Betriebssysteme, Echtzeitsysteme, Verteilte Systeme
+
+
+<br>Dialogsysteme und Computergrafik
+
+<br>Kommunikationssysteme, Benutzerschnittstellen
+
+
+<br>Künstliche Intelligenz
+
+<br>Wissenschaftsbasierte Systeme, Lernsysteme, Robotik
+
+
+<br><br>Die Technische Informatik beschäftigt sich mit den Hardware-Grundlagen, wie etwa:<br>
+<br>Rechnerorganistation
+
+<br>Modellierung, Simulation und Entwurf von Rechnern und Hardwarekomponenten
+
+
+<br>Grundlagen und Schaltungstechnik
+
+<br>Entwurf und Realisierung von Schaltnetzen und Schaltwerken, Entwurfsmethodik und - Werkzeuge für VLSI
+
+
+<br>Architekturkonzepte
+
+<br>Multiprozessor- und Multirechnersysteme, innovative Rechnerarchitekturen
+
+
+<br>Vernetzung von Rechnersystemen
+
+<br>Rechnernetze, Verteilte Systeme, Telematik
+
+
+<br><br>Die Angewandte Informatik ist immer mit einem Anwendungsbereich verbunden. Beispiele hierfür sind: <br>
+<br>Wirtschaftsinformatik 
+
+<br>Volks- und betriebswirtschaftliche Anwendungen 
+
+
+<br>Medizininformatik
+
+<br>Unterstützung von Diagnose und Verwaltung 
+
+
+<br>Ingenieurinformatik 
+
+<br>Einsatz in Elektrotechnik, Maschinenbau, Bauingenieurwesen, ...
+
+
+<br>Informatik in Natur- und Geisteswissenschaften 
+
+<br>Einsatz in Physik, Mathematik, Linguistik, ... 
+
+
+]]></description><link>repository\was-ist-informatik.html</link><guid isPermaLink="false">repository/Was ist Informatik.md</guid><pubDate>Wed, 09 Oct 2024 14:52:31 GMT</pubDate></item></channel></rss>
