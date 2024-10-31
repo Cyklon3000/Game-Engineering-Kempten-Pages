@@ -1,11 +1,16 @@
 {
   "vaultName": "Game Engineering Kempten",
-  "lastExport": 1729787712399,
+  "lastExport": 1730392199238,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "repository/Attachments/Programmieren1/DiceCounter/DiceCounter.vcxproj",
+    "repository/Attachments/Programmieren1/DiceCounter/DiceCounter.cpp",
+    "repository/Attachments/Programmieren1/DiceCounter/DiceCounter.vcxproj.filters",
+    "repository/Attachments/Programmieren1/Partialsumme_ForWhile/Partialsumme_ForWhile.vcxproj.filters",
+    "repository/Attachments/Programmieren1/Partialsumme_ForWhile/Partialsumme_ForWhile.cpp",
     "repository/Attachments/Programmieren1/Programmieren1/x64/Debug/Programmieren1.tlog/CL.command.1.tlog",
     "repository/Attachments/Programmieren1/Programmieren1/x64/Debug/Programmieren1.tlog/CL.read.1.tlog",
     "repository/Attachments/Programmieren1/Programmieren1/x64/Debug/Programmieren1.tlog/CL.write.1.tlog",
@@ -26,13 +31,13 @@
     "repository/Attachments/Programmieren1/Programmieren1/x64/Debug/vc143.idb",
     "repository/Attachments/Programmieren1/Programmieren1/x64/Debug/vc143.pdb",
     "repository/Attachments/Programmieren1/Programmieren1/Module.ixx",
-    "repository/Attachments/Programmieren1/Programmieren1/Programmieren1.vcxproj.filters",
-    "repository/Attachments/Programmieren1/Programmieren1/Programmieren1.cpp",
     "repository/Attachments/Programmieren1/Programmieren1/Programmieren1.vcxproj.user",
+    "repository/Attachments/Programmieren1/Programmieren1/Programmieren1.cpp",
+    "repository/Attachments/Programmieren1/Programmieren1/Programmieren1.vcxproj.filters",
     "repository/Attachments/Programmieren1/Programmieren1/uebung1_1.cpp",
-    "repository/Attachments/Programmieren1/Uebung1/Uebung1.vcxproj.user",
-    "repository/Attachments/Programmieren1/Uebung1/Uebung1.cpp",
-    "repository/Attachments/Programmieren1/Uebung1/Uebung1.vcxproj.filters",
+    "repository/Attachments/Programmieren1/Uebung1_1/Uebung1.vcxproj.filters",
+    "repository/Attachments/Programmieren1/Uebung1_1/Uebung1.cpp",
+    "repository/Attachments/Programmieren1/Uebung1_1/Uebung1.vcxproj.user",
     "repository/Attachments/Programmieren1/Uebung1_2/x64/Debug/Uebung1_2.tlog/CL.command.1.tlog",
     "repository/Attachments/Programmieren1/Uebung1_2/x64/Debug/Uebung1_2.tlog/Cl.items.tlog",
     "repository/Attachments/Programmieren1/Uebung1_2/x64/Debug/Uebung1_2.tlog/CL.read.1.tlog",
@@ -60,18 +65,78 @@
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.tlog/link.secondary.1.tlog",
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.tlog/link.write.1.tlog",
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.tlog/Uebung1_3.lastbuildstate",
-    "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.ilk",
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.log",
+    "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.ilk",
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.obj",
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.exe.recipe",
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/vc143.pdb",
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/vc143.idb",
-    "repository/Attachments/Programmieren1/Uebung1_3/Uebung1_3.vcxproj.user",
-    "repository/Attachments/Programmieren1/Uebung1_3/Uebung1_3.cpp",
     "repository/Attachments/Programmieren1/Uebung1_3/Uebung1_3.vcxproj.filters",
-    "repository/Attachments/Programmieren1/Uebungen/ConsoleApplication1/ConsoleApplication1.vcxproj.filters",
-    "repository/Attachments/Programmieren1/Uebungen/ConsoleApplication1/ConsoleApplication1.cpp",
-    "repository/Attachments/Programmieren1/Uebungen/ConsoleApplication1/ConsoleApplication1.vcxproj.user",
+    "repository/Attachments/Programmieren1/Uebung1_3/Uebung1_3.cpp",
+    "repository/Attachments/Programmieren1/Uebung1_3/Uebung1_3.vcxproj.user",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/CL.command.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/Cl.items.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/CL.read.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/CL.write.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/link.command.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/link.read.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/link.secondary.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/link.write.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/Uebung2_1.lastbuildstate",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.obj",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.log",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.ilk",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.exe.recipe",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/vc143.pdb",
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/vc143.idb",
+    "repository/Attachments/Programmieren1/Uebung2_1/Uebung2_1.vcxproj.filters",
+    "repository/Attachments/Programmieren1/Uebung2_1/Uebung2_1.cpp",
+    "repository/Attachments/Programmieren1/Uebung2_1/Uebung2_1.vcxproj.user",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/CL.command.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/Cl.items.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/CL.read.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/CL.write.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/link.command.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/link.read.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/link.secondary.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/link.write.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/Uebung2_2.lastbuildstate",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.log",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.ilk",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.obj",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.exe.recipe",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/vc143.pdb",
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/vc143.idb",
+    "repository/Attachments/Programmieren1/Uebung2_2/Uebung2_2.vcxproj.filters",
+    "repository/Attachments/Programmieren1/Uebung2_2/Uebung2_2.cpp",
+    "repository/Attachments/Programmieren1/Uebung2_2/Uebung2_2.vcxproj.user",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/CL.command.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/Cl.items.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/CL.read.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/CL.write.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/link.command.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/link.read.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/link.secondary.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/link.write.1.tlog",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/Uebung2_3.lastbuildstate",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.obj",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.ilk",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.log",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.exe.recipe",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/vc143.idb",
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/vc143.pdb",
+    "repository/Attachments/Programmieren1/Uebung2_3/Uebung2_3.vcxproj.user",
+    "repository/Attachments/Programmieren1/Uebung2_3/Uebung2_3.cpp",
+    "repository/Attachments/Programmieren1/Uebung2_3/Uebung2_3.vcxproj.filters",
+    "repository/Attachments/Programmieren1/Uebung3_1/Uebung3_1.vcxproj.filters",
+    "repository/Attachments/Programmieren1/Uebung3_1/Uebung3_1.cpp",
+    "repository/Attachments/Programmieren1/Uebung3_2/Uebung3_2.vcxproj",
+    "repository/Attachments/Programmieren1/Uebung3_2/Uebung3_2.cpp",
+    "repository/Attachments/Programmieren1/Uebung3_2/Uebung3_2.vcxproj.filters",
+    "repository/Attachments/Programmieren1/Uebung3_3/Uebung3_3.vcxproj.filters",
+    "repository/Attachments/Programmieren1/Uebung3_3/Uebung3_3.cpp",
+    "repository/Attachments/Programmieren1/Uebung3_4/Uebung3_4.vcxproj.filters",
+    "repository/Attachments/Programmieren1/Uebung3_4/Uebung3_4.cpp",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1_1.tlog/CL.command.1.tlog",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1_1.tlog/Cl.items.tlog",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1_1.tlog/CL.read.1.tlog",
@@ -90,31 +155,38 @@
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1.tlog/link.secondary.1.tlog",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1.tlog/link.write.1.tlog",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1.tlog/Uebung1.lastbuildstate",
-    "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1.obj",
-    "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1.log",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1.ilk",
-    "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1_1.ilk",
+    "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1.log",
+    "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1.obj",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1_1.obj",
+    "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1_1.ilk",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1_1.exe.recipe",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1.exe.recipe",
-    "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/vc143.pdb",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/vc143.idb",
-    "repository/Attachments/Programmieren1/Uebungen/Uebung1/Uebung1.vcxproj",
-    "repository/Attachments/Programmieren1/Uebungen/Uebung1/Uebung1_1.cpp",
+    "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/vc143.pdb",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/Uebung1.vcxproj.user",
+    "repository/Attachments/Programmieren1/Uebungen/Uebung1/Uebung1_1.cpp",
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/Uebung1.vcxproj.filters",
     "repository/Attachments/Programmieren1/x64/Debug/Programmieren1.pdb",
     "repository/Attachments/Programmieren1/x64/Debug/Uebung1.pdb",
     "repository/Attachments/Programmieren1/x64/Debug/Uebung1.exe",
-    "repository/Attachments/Programmieren1/x64/Debug/Uebung1_1.pdb",
     "repository/Attachments/Programmieren1/x64/Debug/Uebung1_1.exe",
-    "repository/Attachments/Programmieren1/x64/Debug/Uebung1_2.pdb",
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung1_1.pdb",
     "repository/Attachments/Programmieren1/x64/Debug/Uebung1_2.exe",
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung1_2.pdb",
     "repository/Attachments/Programmieren1/x64/Debug/Uebung1_3.pdb",
     "repository/Attachments/Programmieren1/x64/Debug/Uebung1_3.exe",
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_1.pdb",
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_1.exe",
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_2.exe",
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_2.pdb",
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_3.pdb",
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_3.exe",
     "repository/Attachments/Programmieren1/Programmieren1.sln",
     "repository/Attachments/Abstraktionsebenen Flussdiagramm.canvas",
     "repository/Attachments/AbweichungBinärDezimalGroessenfaktoren.png",
+    "repository/Attachments/AnimationsfilmSkizzen.blend1",
+    "repository/Attachments/AnimationsfilmSkizzen.blend",
     "repository/Attachments/Aufschrieb Kegelschnitte.jpeg",
     "repository/Attachments/Bogenmaß Uebersicht Winkel.png",
     "repository/Attachments/Burg Rendering Rasterisierung.png",
@@ -125,10 +197,13 @@
     "repository/Attachments/Console Game Framework Struktur.canvas",
     "repository/Attachments/Einheitskreis 45 Grad sin cos.png",
     "repository/Attachments/Erstellen eines Programms (.exe-Datei).canvas",
+    "repository/Attachments/function_plot_10xpow3-15xpow4+6xpow5.png",
     "repository/Attachments/Funtionsgraphen f_sin und g_abs(sin).png",
     "repository/Attachments/generateDesmosBatch.py",
     "repository/Attachments/Informatik Bestandteile.canvas",
     "repository/Attachments/Informationsverarbeitung.canvas",
+    "repository/Attachments/OrcaUebung.blend",
+    "repository/Attachments/OrcaUebung.blend1",
     "repository/Attachments/Pascals_Triangle.png",
     "repository/Attachments/RAM Register.canvas",
     "repository/Attachments/Raytracing Camera Plane Schaubild.png",
@@ -136,6 +211,10 @@
     "repository/Attachments/Raytracing Schatten Mapping.png",
     "repository/Attachments/Rechtwinkliges Dreieck Seiten Beschriftet.png",
     "repository/Attachments/Regel von Sarrus Matrix.png",
+    "repository/Attachments/Szene 1 Karton Geschlossen.png",
+    "repository/Attachments/Szene 1 Karton Offen.png",
+    "repository/Attachments/Szene 2 Karton Wurf.png",
+    "repository/Attachments/Szene 2 Klappe zu.png",
     "repository/Attachments/Teilgebiete der Informatik.canvas",
     "repository/Attachments/Uebung Bruchterme Potenzen Wurzeln.jpg",
     "repository/Attachments/Uebung Differenzieren.jpeg",
@@ -151,10 +230,15 @@
     "repository/Attachments/Uebung Trigonometrische Funktionen.jpeg",
     "repository/Attachments/Uebung Ungleichungen.jpg",
     "repository/Attachments/Uebungsblatt 1 IT Systeme.pdf",
+    "repository/Attachments/Uebungsblatt 1 Lineare Algebra.pdf",
+    "repository/Attachments/Uebungsblatt 1 Modellierung und Animation.pdf",
     "repository/Attachments/Uebungsblatt 1 Programmieren 1.pdf",
     "repository/Attachments/Uebungsblatt 2 IT Systeme.pdf",
     "repository/Attachments/Uebungsblatt 2 Modellierung und Animation.pdf",
     "repository/Attachments/Uebungsblatt 2 Programmieren 1.pdf",
+    "repository/Attachments/Uebungsblatt 3 IT Systeme.pdf",
+    "repository/Attachments/Uebungsblatt 3 Modellierung und Animation.pdf",
+    "repository/Attachments/Uebungsblatt 3 Programmieren 1.pdf",
     "repository/Attachments/Vektor Addition.png",
     "repository/Attachments/Vektor Visualisierung.png",
     "repository/Attachments/Vierer Matrix Aufteiling Dreier Matrizen.png",
@@ -164,7 +248,10 @@
     "repository/Angeblich nicht lösbare Gleichungen.md",
     "repository/Animation.md",
     "repository/Animation Geschichte.md",
+    "repository/Animationsfilm Orga.md",
+    "repository/Animationsfilm Skript.md",
     "repository/Arithmetische Operatoren.md",
+    "repository/Arrays in C++.md",
     "repository/Betragsgleichungen.md",
     "repository/Binomialkoeffizient.md",
     "repository/Binomischer Lehrsatz.md",
@@ -172,22 +259,22 @@
     "repository/Blender UI.md",
     "repository/Das erste Programm.md",
     "repository/Differenzialrechnung.md",
-    "repository/Doppelbrüche.md",
-    "repository/Ein - und Ausgabe über die Konsole.md",
+    "repository/Ein - und Ausgabe über die Konsole in C++.md",
     "repository/Einführung in Blender.md",
     "repository/Einführung in die Informatik Orga.md",
     "repository/Elementare Datentypen.md",
     "repository/Folgen.md",
     "repository/Funktionen.md",
+    "repository/Funktionen in C++.md",
     "repository/Gaußalgorithmus.md",
     "repository/Geschichte der Informatik.md",
     "repository/Höhere Ableitungen - Geometrische Anwendung.md",
     "repository/Hyperbolische Funktionen.md",
     "repository/Information, Informationsdarstellung und -Verarbeitung.md",
     "repository/Integralrechnung.md",
-    "repository/IT-Systeme - Übungsblatt 1.md",
     "repository/IT-Systeme Orga.md",
     "repository/Kompilierte vs. Interpretierte Sprachen.md",
+    "repository/Kontrollstrukturen in C++.md",
     "repository/Lineare Algebra und analytische Geometrie Orga.md",
     "repository/Lineare Gleichungssysteme.md",
     "repository/Logarithmen.md",
@@ -199,8 +286,6 @@
     "repository/Postproduction.md",
     "repository/Potenzen und Wurzeln.md",
     "repository/Preproduction.md",
-    "repository/Programmieren 1 - Übungsblatt 1.md",
-    "repository/Programmieren 1 - Übungsblatt 2.md",
     "repository/Programmieren 1 Orga.md",
     "repository/Programmiersprachen.md",
     "repository/Random Access Maschinen (RAM)s.md",
@@ -209,10 +294,20 @@
     "repository/Summen und Reihen.md",
     "repository/Syntax und Semantik.md",
     "repository/Terme.md",
-    "repository/Termumformungen.md",
     "repository/Trigonometrie.md",
-    "repository/Uebungsblatt 2 Modellierung und Animation.md",
+    "repository/Übung - Doppelbrüche.md",
+    "repository/Übung - Termumformungen.md",
+    "repository/Übungsblatt 1 - IT-Systeme.md",
+    "repository/Übungsblatt 1 - Lineare Algebra.md",
+    "repository/Übungsblatt 1 - Modellierung und Animation.md",
+    "repository/Übungsblatt 1 - Programmieren 1.md",
+    "repository/Übungsblatt 2 - IT Systeme.md",
+    "repository/Übungsblatt 2 - Modellierung und Animation.md",
+    "repository/Übungsblatt 2 - Programmieren 1.md",
+    "repository/Übungsblatt 3 - Modellierung und Animation.md",
+    "repository/Übungsblatt 3 - Programmieren 1.md",
     "repository/Ungleichungen.md",
+    "repository/Vektoren.md",
     "repository/Vektorrechnung.md",
     "repository/Visual Studio - Tipps und Tricks.md",
     "repository/Was ist Informatik.md",
@@ -266,26 +361,18 @@
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "repository/attachments/funtionsgraphen-f_sin-und-g_abs(sin).png",
     "repository/attachments/pascals_triangle.png",
     "repository/attachments/abweichungbinärdezimalgroessenfaktoren.png",
-    "repository/attachments/uebungsblatt-1-it-systeme.pdf",
     "repository/attachments/regel-von-sarrus-matrix.png",
     "repository/attachments/vierer-matrix-aufteiling-dreier-matrizen.png",
-    "repository/attachments/uebungsblatt-1-programmieren-1.pdf",
-    "repository/attachments/uebungsblatt-2-programmieren-1.pdf",
     "repository/attachments/raytracing-schatten-mapping.png",
     "repository/attachments/raytracing-camera-plane-schaubild.png",
     "repository/attachments/raytracing-reflektion-refraktion-schaubild.png",
     "repository/attachments/rechtwinkliges-dreieck-seiten-beschriftet.png",
     "repository/attachments/einheitskreis-45-grad-sin-cos.png",
     "repository/attachments/bogenmaß-uebersicht-winkel.png",
-    "repository/attachments/uebungsblatt-2-modellierung-und-animation.pdf",
-    "repository/attachments/burg-rendering-raytracing.png",
-    "repository/attachments/burg-rendering-rasterisierung.png",
-    "repository/attachments/burg-rendering-rasterisierung-raytracing.png",
     "repository/attachments/vektor-addition.png",
     "repository/attachments/vektor-visualisierung.png"
   ],
@@ -339,300 +426,299 @@
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 207189,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 302387,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 6191,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 7313,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 131034,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
@@ -644,13 +730,13 @@
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "repository/Funktionen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 147715,
       "exportedPath": "repository/funktionen.html",
       "dependencies": []
@@ -824,25 +910,25 @@
       "dependencies": []
     },
     "repository/(Naive) Mengenlehre.md": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 15951,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 16544,
       "exportedPath": "repository/(naive)-mengenlehre.html",
       "dependencies": []
     },
     "repository/Angeblich nicht lösbare Gleichungen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 1499,
       "exportedPath": "repository/angeblich-nicht-lösbare-gleichungen.html",
       "dependencies": []
     },
     "repository/Animation.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 281,
       "exportedPath": "repository/animation.html",
       "dependencies": []
     },
     "repository/Betragsgleichungen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 970,
       "exportedPath": "repository/betragsgleichungen.html",
       "dependencies": [
@@ -850,13 +936,13 @@
       ]
     },
     "repository/Binomialkoeffizient.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 232,
       "exportedPath": "repository/binomialkoeffizient.html",
       "dependencies": []
     },
     "repository/Binomischer Lehrsatz.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 618,
       "exportedPath": "repository/binomischer-lehrsatz.html",
       "dependencies": [
@@ -864,55 +950,49 @@
       ]
     },
     "repository/Differenzialrechnung.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 17790,
       "exportedPath": "repository/differenzialrechnung.html",
       "dependencies": []
     },
-    "repository/Doppelbrüche.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 825,
-      "exportedPath": "repository/doppelbrüche.html",
-      "dependencies": []
-    },
     "repository/Einführung in die Informatik Orga.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 1664,
       "exportedPath": "repository/einführung-in-die-informatik-orga.html",
       "dependencies": []
     },
     "repository/Folgen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 1908,
       "exportedPath": "repository/folgen.html",
       "dependencies": []
     },
     "repository/Gaußalgorithmus.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 3606,
       "exportedPath": "repository/gaußalgorithmus.html",
       "dependencies": []
     },
     "repository/Geschichte der Informatik.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 3995,
       "exportedPath": "repository/geschichte-der-informatik.html",
       "dependencies": []
     },
     "repository/Höhere Ableitungen - Geometrische Anwendung.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 3090,
       "exportedPath": "repository/höhere-ableitungen-geometrische-anwendung.html",
       "dependencies": []
     },
     "repository/Hyperbolische Funktionen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 220,
       "exportedPath": "repository/hyperbolische-funktionen.html",
       "dependencies": []
     },
     "repository/Information, Informationsdarstellung und -Verarbeitung.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 10240,
       "exportedPath": "repository/information,-informationsdarstellung-und-verarbeitung.html",
       "dependencies": [
@@ -920,25 +1000,25 @@
       ]
     },
     "repository/Integralrechnung.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 115064,
       "exportedPath": "repository/integralrechnung.html",
       "dependencies": []
     },
     "repository/Kompilierte vs. Interpretierte Sprachen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 1102,
       "exportedPath": "repository/kompilierte-vs.-interpretierte-sprachen.html",
       "dependencies": []
     },
     "repository/Lineare Algebra und analytische Geometrie Orga.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 297,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 353,
       "exportedPath": "repository/lineare-algebra-und-analytische-geometrie-orga.html",
       "dependencies": []
     },
     "repository/Lineare Gleichungssysteme.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 2955,
       "exportedPath": "repository/lineare-gleichungssysteme.html",
       "dependencies": [
@@ -947,61 +1027,61 @@
       ]
     },
     "repository/Logarithmen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 1247,
       "exportedPath": "repository/logarithmen.html",
       "dependencies": []
     },
     "repository/Mathe-Vorkurs Orga.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 1304,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1322,
       "exportedPath": "repository/mathe-vorkurs-orga.html",
       "dependencies": []
     },
     "repository/Modellierung.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 1636,
       "exportedPath": "repository/modellierung.html",
       "dependencies": []
     },
     "repository/Modellierung und Animation 1 Orga.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 834,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 964,
       "exportedPath": "repository/modellierung-und-animation-1-orga.html",
       "dependencies": []
     },
     "repository/Potenzen und Wurzeln.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 741,
       "exportedPath": "repository/potenzen-und-wurzeln.html",
       "dependencies": []
     },
     "repository/Preproduction.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 214,
       "exportedPath": "repository/preproduction.html",
       "dependencies": []
     },
     "repository/Programmieren 1 Orga.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 471,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 593,
       "exportedPath": "repository/programmieren-1-orga.html",
       "dependencies": []
     },
     "repository/Programmiersprachen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 519,
       "exportedPath": "repository/programmiersprachen.html",
       "dependencies": []
     },
     "repository/README.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 520,
       "exportedPath": "repository/readme.html",
       "dependencies": []
     },
     "repository/Rendering.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 2591,
       "exportedPath": "repository/rendering.html",
       "dependencies": [
@@ -1011,31 +1091,25 @@
       ]
     },
     "repository/Summen und Reihen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 2835,
       "exportedPath": "repository/summen-und-reihen.html",
       "dependencies": []
     },
     "repository/Syntax und Semantik.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 620,
       "exportedPath": "repository/syntax-und-semantik.html",
       "dependencies": []
     },
     "repository/Terme.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 963,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 972,
       "exportedPath": "repository/terme.html",
       "dependencies": []
     },
-    "repository/Termumformungen.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 1436,
-      "exportedPath": "repository/termumformungen.html",
-      "dependencies": []
-    },
     "repository/Trigonometrie.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 2110,
       "exportedPath": "repository/trigonometrie.html",
       "dependencies": [
@@ -1045,13 +1119,13 @@
       ]
     },
     "repository/Ungleichungen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 714,
       "exportedPath": "repository/ungleichungen.html",
       "dependencies": []
     },
     "repository/Vektorrechnung.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 2864,
       "exportedPath": "repository/vektorrechnung.html",
       "dependencies": [
@@ -1060,74 +1134,74 @@
       ]
     },
     "repository/Was ist Informatik.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 3744,
       "exportedPath": "repository/was-ist-informatik.html",
       "dependencies": []
     },
     "repository/attachments/funtionsgraphen-f_sin-und-g_abs(sin).png": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 14590,
       "exportedPath": "repository/attachments/funtionsgraphen-f_sin-und-g_abs(sin).png",
       "dependencies": []
     },
     "repository/attachments/pascals_triangle.png": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 8478,
       "exportedPath": "repository/attachments/pascals_triangle.png",
       "dependencies": []
     },
     "repository/attachments/abweichungbinärdezimalgroessenfaktoren.png": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 13312,
       "exportedPath": "repository/attachments/abweichungbinärdezimalgroessenfaktoren.png",
       "dependencies": []
     },
     "repository/attachments/regel-von-sarrus-matrix.png": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 15566,
       "exportedPath": "repository/attachments/regel-von-sarrus-matrix.png",
       "dependencies": []
     },
     "repository/attachments/vierer-matrix-aufteiling-dreier-matrizen.png": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 17166,
       "exportedPath": "repository/attachments/vierer-matrix-aufteiling-dreier-matrizen.png",
       "dependencies": []
     },
     "repository/attachments/rechtwinkliges-dreieck-seiten-beschriftet.png": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 24003,
       "exportedPath": "repository/attachments/rechtwinkliges-dreieck-seiten-beschriftet.png",
       "dependencies": []
     },
     "repository/attachments/einheitskreis-45-grad-sin-cos.png": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 232892,
       "exportedPath": "repository/attachments/einheitskreis-45-grad-sin-cos.png",
       "dependencies": []
     },
     "repository/attachments/bogenmaß-uebersicht-winkel.png": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 83056,
       "exportedPath": "repository/attachments/bogenmaß-uebersicht-winkel.png",
       "dependencies": []
     },
     "repository/attachments/vektor-addition.png": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 8977,
       "exportedPath": "repository/attachments/vektor-addition.png",
       "dependencies": []
     },
     "repository/attachments/vektor-visualisierung.png": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 4284,
       "exportedPath": "repository/attachments/vektor-visualisierung.png",
       "dependencies": []
     },
     "repository/Attachments/Abstraktionsebenen Flussdiagramm.canvas": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 2496,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2986,
       "exportedPath": "repository/attachments/abstraktionsebenen-flussdiagramm.html",
       "dependencies": []
     },
@@ -1144,61 +1218,61 @@
       "dependencies": []
     },
     "repository/Attachments/Erstellen eines Programms (.exe-Datei).canvas": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 2139,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2617,
       "exportedPath": "repository/attachments/erstellen-eines-programms-(.exe-datei).html",
       "dependencies": []
     },
     "repository/Attachments/RAM Register.canvas": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 1477,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1871,
       "exportedPath": "repository/attachments/ram-register.html",
       "dependencies": []
     },
     "repository/Abstraktionsebenen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 134,
       "exportedPath": "repository/abstraktionsebenen.html",
       "dependencies": []
     },
     "repository/Blender Hotkeys.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 2540,
       "exportedPath": "repository/blender-hotkeys.html",
       "dependencies": []
     },
     "repository/Blender UI.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 299,
       "exportedPath": "repository/blender-ui.html",
       "dependencies": []
     },
     "repository/Das erste Programm.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 4191,
       "exportedPath": "repository/das-erste-programm.html",
       "dependencies": []
     },
     "repository/Einführung in Blender.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 133,
       "exportedPath": "repository/einführung-in-blender.html",
       "dependencies": []
     },
     "repository/IT-Systeme Orga.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 540,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 574,
       "exportedPath": "repository/it-systeme-orga.html",
       "dependencies": []
     },
     "repository/Objekte in Blender.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 364,
       "exportedPath": "repository/objekte-in-blender.html",
       "dependencies": []
     },
     "repository/Random Access Maschinen (RAM)s.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 11963,
       "exportedPath": "repository/random-access-maschinen-(ram)s.html",
       "dependencies": []
@@ -1347,24 +1421,6 @@
       "exportedPath": "repository/attachments/programmieren1/programmieren1/uebung1_1.cpp",
       "dependencies": []
     },
-    "repository/Attachments/Programmieren1/Uebung1/Uebung1.vcxproj.user": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 168,
-      "exportedPath": "repository/attachments/programmieren1/uebung1/uebung1.vcxproj.user",
-      "dependencies": []
-    },
-    "repository/Attachments/Programmieren1/Uebung1/Uebung1.cpp": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 829,
-      "exportedPath": "repository/attachments/programmieren1/uebung1/uebung1.cpp",
-      "dependencies": []
-    },
-    "repository/Attachments/Programmieren1/Uebung1/Uebung1.vcxproj.filters": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 980,
-      "exportedPath": "repository/attachments/programmieren1/uebung1/uebung1.vcxproj.filters",
-      "dependencies": []
-    },
     "repository/Attachments/Programmieren1/Uebung1_2/x64/Debug/Uebung1_2.tlog/CL.command.1.tlog": {
       "modifiedTime": 1729787458698,
       "sourceSize": 1042,
@@ -1474,38 +1530,38 @@
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.tlog/CL.command.1.tlog": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 1042,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2046,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.tlog/cl.command.1.tlog",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.tlog/Cl.items.tlog": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 271,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 253,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.tlog/cl.items.tlog",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.tlog/CL.read.1.tlog": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 20354,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 20296,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.tlog/cl.read.1.tlog",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.tlog/CL.write.1.tlog": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 1096,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1024,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.tlog/cl.write.1.tlog",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.tlog/link.command.1.tlog": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 1844,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 3614,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.tlog/link.command.1.tlog",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.tlog/link.read.1.tlog": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 3808,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 4028,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.tlog/link.read.1.tlog",
       "dependencies": []
     },
@@ -1516,50 +1572,50 @@
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.tlog/link.write.1.tlog": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 810,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1020,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.tlog/link.write.1.tlog",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.tlog/Uebung1_3.lastbuildstate": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 235,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 226,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.tlog/uebung1_3.lastbuildstate",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.ilk": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 1052304,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 760312,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.ilk",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.log": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 174,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 165,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.log",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.obj": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 84427,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 83985,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.obj",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/Uebung1_3.exe.recipe": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 372,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 363,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/uebung1_3.exe.recipe",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/vc143.pdb": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 413696,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 634880,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/vc143.pdb",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/x64/Debug/vc143.idb": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 166912,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 322560,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/x64/debug/vc143.idb",
       "dependencies": []
     },
@@ -1570,7 +1626,7 @@
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebung1_3/Uebung1_3.cpp": {
-      "modifiedTime": 1729787458698,
+      "modifiedTime": 1730392199238,
       "sourceSize": 1530,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/uebung1_3.cpp",
       "dependencies": []
@@ -1579,24 +1635,6 @@
       "modifiedTime": 1729787458698,
       "sourceSize": 982,
       "exportedPath": "repository/attachments/programmieren1/uebung1_3/uebung1_3.vcxproj.filters",
-      "dependencies": []
-    },
-    "repository/Attachments/Programmieren1/Uebungen/ConsoleApplication1/ConsoleApplication1.vcxproj.filters": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 992,
-      "exportedPath": "repository/attachments/programmieren1/uebungen/consoleapplication1/consoleapplication1.vcxproj.filters",
-      "dependencies": []
-    },
-    "repository/Attachments/Programmieren1/Uebungen/ConsoleApplication1/ConsoleApplication1.cpp": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 841,
-      "exportedPath": "repository/attachments/programmieren1/uebungen/consoleapplication1/consoleapplication1.cpp",
-      "dependencies": []
-    },
-    "repository/Attachments/Programmieren1/Uebungen/ConsoleApplication1/ConsoleApplication1.vcxproj.user": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 168,
-      "exportedPath": "repository/attachments/programmieren1/uebungen/consoleapplication1/consoleapplication1.vcxproj.user",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/x64/Debug/Uebung1_1.tlog/CL.command.1.tlog": {
@@ -1761,12 +1799,6 @@
       "exportedPath": "repository/attachments/programmieren1/uebungen/uebung1/x64/debug/vc143.idb",
       "dependencies": []
     },
-    "repository/Attachments/Programmieren1/Uebungen/Uebung1/Uebung1.vcxproj": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 6667,
-      "exportedPath": "repository/attachments/programmieren1/uebungen/uebung1/uebung1.vcxproj",
-      "dependencies": []
-    },
     "repository/Attachments/Programmieren1/Uebungen/Uebung1/Uebung1_1.cpp": {
       "modifiedTime": 1729787458698,
       "sourceSize": 189,
@@ -1828,20 +1860,20 @@
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/x64/Debug/Uebung1_3.pdb": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 2002944,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2379776,
       "exportedPath": "repository/attachments/programmieren1/x64/debug/uebung1_3.pdb",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/x64/Debug/Uebung1_3.exe": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 74752,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 71680,
       "exportedPath": "repository/attachments/programmieren1/x64/debug/uebung1_3.exe",
       "dependencies": []
     },
     "repository/Attachments/Programmieren1/Programmieren1.sln": {
-      "modifiedTime": 1729787458698,
-      "sourceSize": 3412,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 15017,
       "exportedPath": "repository/attachments/programmieren1/programmieren1.sln",
       "dependencies": []
     },
@@ -1864,8 +1896,8 @@
       "dependencies": []
     },
     "repository/Attachments/Console Game Framework Struktur.canvas": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 7444,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 8839,
       "exportedPath": "repository/attachments/console-game-framework-struktur.html",
       "dependencies": []
     },
@@ -1918,75 +1950,714 @@
       "dependencies": []
     },
     "repository/3D CGI.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 410,
       "exportedPath": "repository/3d-cgi.html",
       "dependencies": []
     },
     "repository/Animation Geschichte.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 2857,
       "exportedPath": "repository/animation-geschichte.html",
       "dependencies": []
     },
     "repository/Arithmetische Operatoren.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 9307,
       "exportedPath": "repository/arithmetische-operatoren.html",
       "dependencies": []
     },
-    "repository/Ein - und Ausgabe über die Konsole.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 15793,
-      "exportedPath": "repository/ein-und-ausgabe-über-die-konsole.html",
-      "dependencies": []
-    },
     "repository/Elementare Datentypen.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 10693,
       "exportedPath": "repository/elementare-datentypen.html",
       "dependencies": []
     },
-    "repository/IT-Systeme - Übungsblatt 1.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 2126,
-      "exportedPath": "repository/it-systeme-übungsblatt-1.html",
-      "dependencies": [
-        "repository/attachments/uebungsblatt-1-it-systeme.pdf"
-      ]
-    },
     "repository/Mathematische Grundlagen.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 1587,
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2879,
       "exportedPath": "repository/mathematische-grundlagen.html",
       "dependencies": []
     },
     "repository/Postproduction.md": {
-      "modifiedTime": 1729787712399,
+      "modifiedTime": 1730392199238,
       "sourceSize": 268,
       "exportedPath": "repository/postproduction.html",
       "dependencies": []
     },
-    "repository/Programmieren 1 - Übungsblatt 1.md": {
-      "modifiedTime": 1729787712399,
+    "repository/Visual Studio - Tipps und Tricks.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2265,
+      "exportedPath": "repository/visual-studio-tipps-und-tricks.html",
+      "dependencies": []
+    },
+    "repository/Zahlendarstellungen.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 30078,
+      "exportedPath": "repository/zahlendarstellungen.html",
+      "dependencies": []
+    },
+    "repository/attachments/raytracing-schatten-mapping.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 46433,
+      "exportedPath": "repository/attachments/raytracing-schatten-mapping.png",
+      "dependencies": []
+    },
+    "repository/attachments/raytracing-camera-plane-schaubild.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 46629,
+      "exportedPath": "repository/attachments/raytracing-camera-plane-schaubild.png",
+      "dependencies": []
+    },
+    "repository/attachments/raytracing-reflektion-refraktion-schaubild.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 52316,
+      "exportedPath": "repository/attachments/raytracing-reflektion-refraktion-schaubild.png",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/DiceCounter/DiceCounter.vcxproj": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 6631,
+      "exportedPath": "repository/attachments/programmieren1/dicecounter/dicecounter.vcxproj",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/DiceCounter/DiceCounter.cpp": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 640,
+      "exportedPath": "repository/attachments/programmieren1/dicecounter/dicecounter.cpp",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/DiceCounter/DiceCounter.vcxproj.filters": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 984,
+      "exportedPath": "repository/attachments/programmieren1/dicecounter/dicecounter.vcxproj.filters",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Partialsumme_ForWhile/Partialsumme_ForWhile.vcxproj.filters": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 994,
+      "exportedPath": "repository/attachments/programmieren1/partialsumme_forwhile/partialsumme_forwhile.vcxproj.filters",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Partialsumme_ForWhile/Partialsumme_ForWhile.cpp": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 502,
+      "exportedPath": "repository/attachments/programmieren1/partialsumme_forwhile/partialsumme_forwhile.cpp",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung1_1/Uebung1.vcxproj.filters": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 980,
+      "exportedPath": "repository/attachments/programmieren1/uebung1_1/uebung1.vcxproj.filters",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung1_1/Uebung1.cpp": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 829,
+      "exportedPath": "repository/attachments/programmieren1/uebung1_1/uebung1.cpp",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung1_1/Uebung1.vcxproj.user": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 168,
+      "exportedPath": "repository/attachments/programmieren1/uebung1_1/uebung1.vcxproj.user",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/CL.command.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2046,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.tlog/cl.command.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/Cl.items.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 568,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.tlog/cl.items.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/CL.read.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 20532,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.tlog/cl.read.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/CL.write.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1096,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.tlog/cl.write.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/link.command.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 3614,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.tlog/link.command.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/link.read.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 3808,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.tlog/link.read.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/link.secondary.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 283,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.tlog/link.secondary.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/link.write.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 810,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.tlog/link.write.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.tlog/Uebung2_1.lastbuildstate": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 505,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.tlog/uebung2_1.lastbuildstate",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.obj": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 79985,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.obj",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.log": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1477,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.log",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.ilk": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 755272,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.ilk",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/Uebung2_1.exe.recipe": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 565,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/uebung2_1.exe.recipe",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/vc143.pdb": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 618496,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/vc143.pdb",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/x64/Debug/vc143.idb": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 330752,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/x64/debug/vc143.idb",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/Uebung2_1.vcxproj.filters": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 982,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/uebung2_1.vcxproj.filters",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/Uebung2_1.cpp": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 619,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/uebung2_1.cpp",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_1/Uebung2_1.vcxproj.user": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 168,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_1/uebung2_1.vcxproj.user",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/CL.command.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2046,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.tlog/cl.command.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/Cl.items.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 568,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.tlog/cl.items.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/CL.read.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 20550,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.tlog/cl.read.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/CL.write.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1096,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.tlog/cl.write.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/link.command.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 3614,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.tlog/link.command.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/link.read.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 3808,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.tlog/link.read.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/link.secondary.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 592,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.tlog/link.secondary.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/link.write.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 810,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.tlog/link.write.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.tlog/Uebung2_2.lastbuildstate": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 389,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.tlog/uebung2_2.lastbuildstate",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.log": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 363,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.log",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.ilk": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1578240,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.ilk",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.obj": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 265957,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.obj",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/Uebung2_2.exe.recipe": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 565,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/uebung2_2.exe.recipe",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/vc143.pdb": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 421888,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/vc143.pdb",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/x64/Debug/vc143.idb": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 281600,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/x64/debug/vc143.idb",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/Uebung2_2.vcxproj.filters": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 982,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/uebung2_2.vcxproj.filters",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/Uebung2_2.cpp": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 506,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/uebung2_2.cpp",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_2/Uebung2_2.vcxproj.user": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 168,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_2/uebung2_2.vcxproj.user",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/CL.command.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2046,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.tlog/cl.command.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/Cl.items.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 568,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.tlog/cl.items.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/CL.read.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 20950,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.tlog/cl.read.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/CL.write.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1096,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.tlog/cl.write.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/link.command.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 3614,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.tlog/link.command.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/link.read.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 4258,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.tlog/link.read.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/link.secondary.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 592,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.tlog/link.secondary.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/link.write.1.tlog": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 810,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.tlog/link.write.1.tlog",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.tlog/Uebung2_3.lastbuildstate": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 389,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.tlog/uebung2_3.lastbuildstate",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.obj": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 96770,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.obj",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.ilk": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 790880,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.ilk",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.log": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1147,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.log",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/Uebung2_3.exe.recipe": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 565,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/uebung2_3.exe.recipe",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/vc143.idb": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 289792,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/vc143.idb",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/x64/Debug/vc143.pdb": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 479232,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/x64/debug/vc143.pdb",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/Uebung2_3.vcxproj.user": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 168,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/uebung2_3.vcxproj.user",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/Uebung2_3.cpp": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 537,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/uebung2_3.cpp",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung2_3/Uebung2_3.vcxproj.filters": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 982,
+      "exportedPath": "repository/attachments/programmieren1/uebung2_3/uebung2_3.vcxproj.filters",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung3_1/Uebung3_1.vcxproj.filters": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 982,
+      "exportedPath": "repository/attachments/programmieren1/uebung3_1/uebung3_1.vcxproj.filters",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung3_1/Uebung3_1.cpp": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 968,
+      "exportedPath": "repository/attachments/programmieren1/uebung3_1/uebung3_1.cpp",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung3_2/Uebung3_2.vcxproj": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 6626,
+      "exportedPath": "repository/attachments/programmieren1/uebung3_2/uebung3_2.vcxproj",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung3_2/Uebung3_2.cpp": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 968,
+      "exportedPath": "repository/attachments/programmieren1/uebung3_2/uebung3_2.cpp",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung3_2/Uebung3_2.vcxproj.filters": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 982,
+      "exportedPath": "repository/attachments/programmieren1/uebung3_2/uebung3_2.vcxproj.filters",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung3_3/Uebung3_3.vcxproj.filters": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 982,
+      "exportedPath": "repository/attachments/programmieren1/uebung3_3/uebung3_3.vcxproj.filters",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung3_3/Uebung3_3.cpp": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 635,
+      "exportedPath": "repository/attachments/programmieren1/uebung3_3/uebung3_3.cpp",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung3_4/Uebung3_4.vcxproj.filters": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 982,
+      "exportedPath": "repository/attachments/programmieren1/uebung3_4/uebung3_4.vcxproj.filters",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/Uebung3_4/Uebung3_4.cpp": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 580,
+      "exportedPath": "repository/attachments/programmieren1/uebung3_4/uebung3_4.cpp",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_1.pdb": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1961984,
+      "exportedPath": "repository/attachments/programmieren1/x64/debug/uebung2_1.pdb",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_1.exe": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 70144,
+      "exportedPath": "repository/attachments/programmieren1/x64/debug/uebung2_1.exe",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_2.exe": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 103424,
+      "exportedPath": "repository/attachments/programmieren1/x64/debug/uebung2_2.exe",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_2.pdb": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2019328,
+      "exportedPath": "repository/attachments/programmieren1/x64/debug/uebung2_2.pdb",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_3.pdb": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1806336,
+      "exportedPath": "repository/attachments/programmieren1/x64/debug/uebung2_3.pdb",
+      "dependencies": []
+    },
+    "repository/Attachments/Programmieren1/x64/Debug/Uebung2_3.exe": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 74752,
+      "exportedPath": "repository/attachments/programmieren1/x64/debug/uebung2_3.exe",
+      "dependencies": []
+    },
+    "repository/Attachments/AnimationsfilmSkizzen.blend1": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1355312,
+      "exportedPath": "repository/attachments/animationsfilmskizzen.blend1",
+      "dependencies": []
+    },
+    "repository/Attachments/AnimationsfilmSkizzen.blend": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1408084,
+      "exportedPath": "repository/attachments/animationsfilmskizzen.blend",
+      "dependencies": []
+    },
+    "repository/Attachments/function_plot_10xpow3-15xpow4+6xpow5.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 34367,
+      "exportedPath": "repository/attachments/function_plot_10xpow3-15xpow4+6xpow5.png",
+      "dependencies": []
+    },
+    "repository/Attachments/OrcaUebung.blend": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1099012,
+      "exportedPath": "repository/attachments/orcauebung.blend",
+      "dependencies": []
+    },
+    "repository/Attachments/OrcaUebung.blend1": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1066440,
+      "exportedPath": "repository/attachments/orcauebung.blend1",
+      "dependencies": []
+    },
+    "repository/Attachments/Szene 1 Karton Geschlossen.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2560000,
+      "exportedPath": "repository/attachments/szene-1-karton-geschlossen.png",
+      "dependencies": []
+    },
+    "repository/Attachments/Szene 1 Karton Offen.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2560000,
+      "exportedPath": "repository/attachments/szene-1-karton-offen.png",
+      "dependencies": []
+    },
+    "repository/Attachments/Szene 2 Karton Wurf.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2478874,
+      "exportedPath": "repository/attachments/szene-2-karton-wurf.png",
+      "dependencies": []
+    },
+    "repository/Attachments/Szene 2 Klappe zu.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2396693,
+      "exportedPath": "repository/attachments/szene-2-klappe-zu.png",
+      "dependencies": []
+    },
+    "repository/Attachments/Uebungsblatt 1 Lineare Algebra.pdf": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 128299,
+      "exportedPath": "repository/attachments/uebungsblatt-1-lineare-algebra.pdf",
+      "dependencies": []
+    },
+    "repository/Attachments/Uebungsblatt 1 Modellierung und Animation.pdf": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 122954,
+      "exportedPath": "repository/attachments/uebungsblatt-1-modellierung-und-animation.pdf",
+      "dependencies": []
+    },
+    "repository/Attachments/Uebungsblatt 3 IT Systeme.pdf": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 120732,
+      "exportedPath": "repository/attachments/uebungsblatt-3-it-systeme.pdf",
+      "dependencies": []
+    },
+    "repository/Attachments/Uebungsblatt 3 Modellierung und Animation.pdf": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 50201,
+      "exportedPath": "repository/attachments/uebungsblatt-3-modellierung-und-animation.pdf",
+      "dependencies": []
+    },
+    "repository/Attachments/Uebungsblatt 3 Programmieren 1.pdf": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 111972,
+      "exportedPath": "repository/attachments/uebungsblatt-3-programmieren-1.pdf",
+      "dependencies": []
+    },
+    "repository/Animationsfilm Orga.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 110,
+      "exportedPath": "repository/animationsfilm-orga.html",
+      "dependencies": []
+    },
+    "repository/Animationsfilm Skript.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 4205,
+      "exportedPath": "repository/animationsfilm-skript.html",
+      "dependencies": [
+        "repository/attachments/szene-1-karton-offen.png",
+        "repository/attachments/szene-1-karton-geschlossen.png",
+        "repository/attachments/szene-2-karton-wurf.png",
+        "repository/attachments/szene-2-klappe-zu.png"
+      ]
+    },
+    "repository/Arrays in C++.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2900,
+      "exportedPath": "repository/arrays-in-c++.html",
+      "dependencies": []
+    },
+    "repository/Ein - und Ausgabe über die Konsole in C++.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 15767,
+      "exportedPath": "repository/ein-und-ausgabe-über-die-konsole-in-c++.html",
+      "dependencies": []
+    },
+    "repository/Funktionen in C++.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2716,
+      "exportedPath": "repository/funktionen-in-c++.html",
+      "dependencies": []
+    },
+    "repository/Kontrollstrukturen in C++.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 9505,
+      "exportedPath": "repository/kontrollstrukturen-in-c++.html",
+      "dependencies": []
+    },
+    "repository/Übung - Doppelbrüche.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 825,
+      "exportedPath": "repository/übung-doppelbrüche.html",
+      "dependencies": []
+    },
+    "repository/Übung - Termumformungen.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1436,
+      "exportedPath": "repository/übung-termumformungen.html",
+      "dependencies": []
+    },
+    "repository/Übungsblatt 1 - IT-Systeme.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2126,
+      "exportedPath": "repository/übungsblatt-1-it-systeme.html",
+      "dependencies": [
+        "repository/attachments/uebungsblatt-1-it-systeme.pdf"
+      ]
+    },
+    "repository/Übungsblatt 1 - Lineare Algebra.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 1902,
+      "exportedPath": "repository/übungsblatt-1-lineare-algebra.html",
+      "dependencies": [
+        "repository/attachments/uebungsblatt-1-lineare-algebra.pdf"
+      ]
+    },
+    "repository/Übungsblatt 1 - Modellierung und Animation.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 162,
+      "exportedPath": "repository/übungsblatt-1-modellierung-und-animation.html",
+      "dependencies": [
+        "repository/attachments/uebungsblatt-1-modellierung-und-animation.pdf"
+      ]
+    },
+    "repository/Übungsblatt 1 - Programmieren 1.md": {
+      "modifiedTime": 1730392199238,
       "sourceSize": 7313,
-      "exportedPath": "repository/programmieren-1-übungsblatt-1.html",
+      "exportedPath": "repository/übungsblatt-1-programmieren-1.html",
       "dependencies": [
         "repository/attachments/uebungsblatt-1-programmieren-1.pdf"
       ]
     },
-    "repository/Programmieren 1 - Übungsblatt 2.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 90,
-      "exportedPath": "repository/programmieren-1-übungsblatt-2.html",
+    "repository/Übungsblatt 2 - IT Systeme.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2467,
+      "exportedPath": "repository/übungsblatt-2-it-systeme.html",
       "dependencies": [
-        "repository/attachments/uebungsblatt-2-programmieren-1.pdf"
+        "repository/attachments/uebungsblatt-2-it-systeme.pdf"
       ]
     },
-    "repository/Uebungsblatt 2 Modellierung und Animation.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 5488,
-      "exportedPath": "repository/uebungsblatt-2-modellierung-und-animation.html",
+    "repository/Übungsblatt 2 - Modellierung und Animation.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 6064,
+      "exportedPath": "repository/übungsblatt-2-modellierung-und-animation.html",
       "dependencies": [
         "repository/attachments/uebungsblatt-2-modellierung-und-animation.pdf",
         "repository/attachments/burg-rendering-raytracing.png",
@@ -1994,76 +2665,95 @@
         "repository/attachments/burg-rendering-rasterisierung-raytracing.png"
       ]
     },
-    "repository/Visual Studio - Tipps und Tricks.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 2265,
-      "exportedPath": "repository/visual-studio-tipps-und-tricks.html",
+    "repository/Übungsblatt 2 - Programmieren 1.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 983,
+      "exportedPath": "repository/übungsblatt-2-programmieren-1.html",
+      "dependencies": [
+        "repository/attachments/uebungsblatt-2-programmieren-1.pdf",
+        "repository/attachments/function_plot_10xpow3-15xpow4+6xpow5.png"
+      ]
+    },
+    "repository/Übungsblatt 3 - Modellierung und Animation.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 147,
+      "exportedPath": "repository/übungsblatt-3-modellierung-und-animation.html",
+      "dependencies": [
+        "repository/attachments/uebungsblatt-3-modellierung-und-animation.pdf"
+      ]
+    },
+    "repository/Übungsblatt 3 - Programmieren 1.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 233,
+      "exportedPath": "repository/übungsblatt-3-programmieren-1.html",
+      "dependencies": [
+        "repository/attachments/uebungsblatt-3-programmieren-1.pdf"
+      ]
+    },
+    "repository/Vektoren.md": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2585,
+      "exportedPath": "repository/vektoren.html",
       "dependencies": []
     },
-    "repository/Zahlendarstellungen.md": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 27640,
-      "exportedPath": "repository/zahlendarstellungen.html",
+    "repository/attachments/szene-1-karton-offen.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2560000,
+      "exportedPath": "repository/attachments/szene-1-karton-offen.png",
       "dependencies": []
     },
-    "repository/attachments/uebungsblatt-1-it-systeme.pdf": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 114569,
-      "exportedPath": "repository/attachments/uebungsblatt-1-it-systeme.pdf",
+    "repository/attachments/szene-1-karton-geschlossen.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2560000,
+      "exportedPath": "repository/attachments/szene-1-karton-geschlossen.png",
       "dependencies": []
     },
-    "repository/attachments/uebungsblatt-1-programmieren-1.pdf": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 119258,
-      "exportedPath": "repository/attachments/uebungsblatt-1-programmieren-1.pdf",
+    "repository/attachments/szene-2-karton-wurf.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2478874,
+      "exportedPath": "repository/attachments/szene-2-karton-wurf.png",
       "dependencies": []
     },
-    "repository/attachments/uebungsblatt-2-programmieren-1.pdf": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 139890,
-      "exportedPath": "repository/attachments/uebungsblatt-2-programmieren-1.pdf",
+    "repository/attachments/szene-2-klappe-zu.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 2396693,
+      "exportedPath": "repository/attachments/szene-2-klappe-zu.png",
       "dependencies": []
     },
-    "repository/attachments/raytracing-schatten-mapping.png": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 46433,
-      "exportedPath": "repository/attachments/raytracing-schatten-mapping.png",
+    "repository/attachments/uebungsblatt-1-lineare-algebra.pdf": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 128299,
+      "exportedPath": "repository/attachments/uebungsblatt-1-lineare-algebra.pdf",
       "dependencies": []
     },
-    "repository/attachments/raytracing-camera-plane-schaubild.png": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 46629,
-      "exportedPath": "repository/attachments/raytracing-camera-plane-schaubild.png",
+    "repository/attachments/uebungsblatt-1-modellierung-und-animation.pdf": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 122954,
+      "exportedPath": "repository/attachments/uebungsblatt-1-modellierung-und-animation.pdf",
       "dependencies": []
     },
-    "repository/attachments/raytracing-reflektion-refraktion-schaubild.png": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 52316,
-      "exportedPath": "repository/attachments/raytracing-reflektion-refraktion-schaubild.png",
+    "repository/attachments/uebungsblatt-2-it-systeme.pdf": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 95716,
+      "exportedPath": "repository/attachments/uebungsblatt-2-it-systeme.pdf",
       "dependencies": []
     },
-    "repository/attachments/uebungsblatt-2-modellierung-und-animation.pdf": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 99541,
-      "exportedPath": "repository/attachments/uebungsblatt-2-modellierung-und-animation.pdf",
+    "repository/attachments/function_plot_10xpow3-15xpow4+6xpow5.png": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 34367,
+      "exportedPath": "repository/attachments/function_plot_10xpow3-15xpow4+6xpow5.png",
       "dependencies": []
     },
-    "repository/attachments/burg-rendering-raytracing.png": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 1582253,
-      "exportedPath": "repository/attachments/burg-rendering-raytracing.png",
+    "repository/attachments/uebungsblatt-3-modellierung-und-animation.pdf": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 50201,
+      "exportedPath": "repository/attachments/uebungsblatt-3-modellierung-und-animation.pdf",
       "dependencies": []
     },
-    "repository/attachments/burg-rendering-rasterisierung.png": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 1128483,
-      "exportedPath": "repository/attachments/burg-rendering-rasterisierung.png",
-      "dependencies": []
-    },
-    "repository/attachments/burg-rendering-rasterisierung-raytracing.png": {
-      "modifiedTime": 1729787712399,
-      "sourceSize": 1435103,
-      "exportedPath": "repository/attachments/burg-rendering-rasterisierung-raytracing.png",
+    "repository/attachments/uebungsblatt-3-programmieren-1.pdf": {
+      "modifiedTime": 1730392199238,
+      "sourceSize": 111972,
+      "exportedPath": "repository/attachments/uebungsblatt-3-programmieren-1.pdf",
       "dependencies": []
     }
   }
